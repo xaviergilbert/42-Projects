@@ -1,0 +1,18 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    17                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/19 17:21:02 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 20:55:24 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Trouvez une commande qui, en parallele de la session graphique,
+# permet de se connecter en ssh sur la machine
+
+# mode graphique = via virtual box
+
+echo "vagrant init && vagrant up && vagrant ssh"

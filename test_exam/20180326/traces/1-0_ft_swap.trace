@@ -1,0 +1,93 @@
+= Host-specific information ====================================================
+$> hostname; uname -msr
+e2r5p4.42.fr
+Darwin 16.7.0 x86_64
+$> date
+Mon Mar 26 16:40:11 CEST 2018
+$> gcc --version
+Configured with: --prefix=/Applications/Xcode.app/Contents/Developer/usr --with-gxx-include-dir=/usr/include/c++/4.2.1
+Apple LLVM version 9.0.0 (clang-900.0.39.2)
+Target: x86_64-apple-darwin16.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+$> clang --version
+Apple LLVM version 9.0.0 (clang-900.0.39.2)
+Target: x86_64-apple-darwin16.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+
+= User files collection ========================================================
+Collecting user files from Vogsphere
+Repository URL: auto-exam/2018/c-exam-alone-in-the-dark-beginner/practice-exam_20180326/xgilbert
+
+= Git history ==================================================================
+$> git -C /var/folders/m2/ydvwgcmj75vg_plp6wr8lh640000gq/T/tmpD8hzA1/user log --pretty='%H - %an, %ad : %s'
+31119a238837f18085676a4d6fec5e48b79a3269 - Xavier GILBERT, Mon Mar 26 16:40:00 2018 +0200 : lvl1
+92f7c29994404e17156316778f2f1a5d5b451615 - Xavier GILBERT, Mon Mar 26 16:37:26 2018 +0200 : lvl0
+ 
+= Collected files ==========================================
+$> ls -lAR /var/folders/m2/ydvwgcmj75vg_plp6wr8lh640000gq/T/tmpD8hzA1/user
+total 8
+-rw-r--r--  1 deepthought  deepthought  481 Mar 26 16:40 __GIT_HISTORY
+drwxr-xr-x  3 deepthought  deepthought  102 Mar 26 16:40 aff_last_param
+drwxr-xr-x  3 deepthought  deepthought  102 Mar 26 16:40 ft_swap
+
+/var/folders/m2/ydvwgcmj75vg_plp6wr8lh640000gq/T/tmpD8hzA1/user/aff_last_param:
+total 8
+-rw-r--r--  1 deepthought  deepthought  1172 Mar 26 16:40 aff_last_param.c
+
+/var/folders/m2/ydvwgcmj75vg_plp6wr8lh640000gq/T/tmpD8hzA1/user/ft_swap:
+total 8
+-rw-r--r--  1 deepthought  deepthought  964 Mar 26 16:40 ft_swap.c
+ 
+= ft_swap ======================================================================
+$> clang -Wextra -Wall -Werror ft_swap.c main.c -o user_exe 
+
+= Test 1 ===================================================
+$> ./xu9s39kh78lu41lmhhep2fof "-312052837" "-334315767"
+$> diff -U 3 user_output_test1 test1.output | cat -e
+
+Diff OK :D
+= Test 2 ===================================================
+$> ./i46ksa8imcurmrxbel3hhl3u "2016416270" "1767270318"
+$> diff -U 3 user_output_test2 test2.output | cat -e
+
+Diff OK :D
+= Test 3 ===================================================
+$> ./uvdfwlhxtl35pvqcoqz70u40 "-576550883" "600385073"
+$> diff -U 3 user_output_test3 test3.output | cat -e
+
+Diff OK :D
+= Test 4 ===================================================
+$> ./zi2vvrrs13yjzhexx9hk3ume "-1787736381" "-593654351"
+$> diff -U 3 user_output_test4 test4.output | cat -e
+
+Diff OK :D
+= Test 5 ===================================================
+$> ./1b0lw2h0kwg0gw3gd2oa9iqx "308508730" "890178063"
+$> diff -U 3 user_output_test5 test5.output | cat -e
+
+Diff OK :D
+= Test 6 ===================================================
+$> ./zn95d267ykeon3bp05qzo3b9 "-354885239" "-1627207868"
+$> diff -U 3 user_output_test6 test6.output | cat -e
+
+Diff OK :D
+= Test 7 ===================================================
+$> ./ymslfphjlszzb0ljrywzn6nn "-783890029" "954188781"
+$> diff -U 3 user_output_test7 test7.output | cat -e
+
+Diff OK :D
+= Test 8 ===================================================
+$> ./qc4422n1y1z5qnzoe5hyvkgd "731687331" "351991363"
+$> diff -U 3 user_output_test8 test8.output | cat -e
+
+Diff OK :D
+= Test 9 ===================================================
+$> ./arzxm2hjpuwichd1v0i7o4hn "-1983362561" "-1221793322"
+$> diff -U 3 user_output_test9 test9.output | cat -e
+
+Diff OK :D
+Grade: 1
+
+= Final grade: 1 ===============================================================

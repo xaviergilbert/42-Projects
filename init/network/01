@@ -1,0 +1,17 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    01                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/12 14:32:56 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/20 14:23:14 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Récupérez la liste des interfaces réseau de la machine sans afficher
+# aucun détail
+# pour ces interfaces. Vraiment juste la liste des noms.
+
+ifconfig -l

@@ -1,0 +1,22 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    12                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/19 16:23:40 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 20:55:01 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Déterminez la taille exacte de chaque dossier de /var d’une manière
+# humainement compréhensible suivi du chemin de celui-ci.
+
+
+# la commande "du" affiche la quantité d'espace disque utilisée par chacun des
+# arguments, et pour chaque sous-répertoire des répertoires indiqués en argument.
+# -s resume de chaque dossier
+# -h human readable (pour avoir des tailles comprehensible)
+
+echo 'sudo du -sh /var/*'

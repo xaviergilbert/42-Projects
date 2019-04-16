@@ -1,0 +1,22 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    11                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/12 16:08:34 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 20:52:53 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Trouvez grâce au résultat de la commande précédente le nom et l’IP du
+# matériel qui fait le lien entre vous (réseau local) et l’extérieur
+#
+# https://www.culture-informatique.net/cest-quoi-le-nat-cest-quoi-le-pat/
+# NAT : Network Address Translation (Traduction d’adresse réseau)
+
+# Par deduction je dirait que c'est la ligne commencant par nat
+
+echo "Nom du reseau : nat-1"
+echo "Adresse IP : 10.60.1.11"

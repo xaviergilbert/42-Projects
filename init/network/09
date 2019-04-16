@@ -1,0 +1,17 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    09                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/12 15:38:52 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 20:52:46 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Trouver l’IP Publique de 42.fr
+# nslookup 42.fr 8.8.8.8
+# on passe par un DNS externe pour retrouver l IP publique
+
+nslookup 42.fr 8.8.8.8

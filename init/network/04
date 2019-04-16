@@ -1,0 +1,24 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    04                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/12 14:49:22 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 20:52:02 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Identifiez la gateway par défaut dans la table de routage
+#
+# netstat - Affiche les connexions réseau, les tables de routage,
+# les statistiques des interfaces, les connexions masquées,
+# les messages netlink, et les membres multicast.
+# -r pour les tables de routages
+# -n affiche les adresses en format numérique au lieu d'essayer de déterminer
+# le nom symbolique d'hôte, de port ou d'utilisateur
+# head -1 pour prendre seulement la ligne qui nous interesse
+# commande awk pour imprimer le deuxieme champs
+
+netstat -nr | grep default | head -1 | awk '{print$2}'

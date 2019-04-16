@@ -1,0 +1,22 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    06                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/12 15:18:38 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 20:52:21 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Récupérez le path complet du fichier dans lequel est écrit
+# l’adresse IP du serveur DNS que vous utilisez
+#
+# https://wiki.archlinux.fr/resolv.conf
+#
+#
+# le fichier est resolv.conf donc le chemin est /etc/resolv.conf
+# le fichier sert a changer de DNS et donc garde en info l'ip du DNS actuelle
+
+echo '/etc/resolv.conf'

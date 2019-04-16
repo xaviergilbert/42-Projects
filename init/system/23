@@ -1,0 +1,17 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    23                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/19 19:13:54 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 19:31:29 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Expliquez comment se connecter en tant que ce nouvelle utilisateur.
+# (En session graphique et en session ssh)
+
+echo "sudo passwd nom_utilisateur
+su - nom_utilisateur"

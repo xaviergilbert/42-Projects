@@ -1,0 +1,18 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    10                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/12 17:26:04 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 20:52:49 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# identifiez les différents appareils réseaux
+# entre votre poste et le domaine slash16.org
+# Envoie de paquets vers l'adresse. Les routeurs intermediaires vont
+# nous renvoyer un message d'erreur permettant de les identifier.
+
+traceroute slash16.org

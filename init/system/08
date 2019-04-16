@@ -1,0 +1,19 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    08                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/19 15:56:24 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 20:54:42 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Quel fichier contient les clés RSA des machines autorisées à se connecter
+# via SSH ?
+
+# https://doc.fedora-fr.org/wiki/SSH_:_Authentification_par_cl%C3%A9
+# https://www.ssh.com/ssh/authorized-key
+
+echo '~/.ssh/authorized_keys'

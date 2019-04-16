@@ -1,0 +1,18 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    07                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/19 15:52:07 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/20 14:42:01 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Déterminez le PID du service SSHD
+#
+
+echo "systemctl status ssh | grep "Main PID" | awk '{print$3}'
+ou
+cat /var/run/sshd.pid"

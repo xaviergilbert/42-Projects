@@ -1,0 +1,21 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    09                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/19 16:05:44 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 20:54:46 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Quelle commande permet de savoir quelles personnes sont
+# connectées sur le système ?
+#
+# la commande who affiche les informations sur les utilisateurs qui sont connecte
+# -q les logins et le nombre d utilisateurs
+# -a = all
+# -u = users
+
+echo 'who -u'

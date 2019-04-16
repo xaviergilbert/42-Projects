@@ -1,0 +1,18 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    15                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/19 17:08:03 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 20:55:14 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Trouvez une commande qui permet de tuer le processus de la
+# commande en background
+
+# pkill demande le nom de commande
+
+echo 'sudo pkill tail'

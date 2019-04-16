@@ -1,0 +1,18 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    05                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/19 15:31:34 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/20 14:39:27 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Donnez une commande qui détermine l’état du service SSH
+# ssh est un script avec des commandes comme status pour connaitre l etat
+
+echo '/etc/init.d/ssh status
+ou 
+systemctl status ssh.service'

@@ -1,0 +1,65 @@
+= Host-specific information ====================================================
+$> hostname; uname -msr
+e2r7p18.42.fr
+Darwin 16.7.0 x86_64
+$> date
+Wed Feb 21 13:23:42 CET 2018
+$> gcc --version
+Configured with: --prefix=/Applications/Xcode.app/Contents/Developer/usr --with-gxx-include-dir=/usr/include/c++/4.2.1
+Apple LLVM version 9.0.0 (clang-900.0.38)
+Target: x86_64-apple-darwin16.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+$> clang --version
+Apple LLVM version 9.0.0 (clang-900.0.38)
+Target: x86_64-apple-darwin16.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+
+= User files collection ========================================================
+Collecting user files from Vogsphere
+Repository URL: auto-exam/2018/c-exam-alone-in-the-dark-beginner/practice-exam_20180221/xgilbert2
+
+= Git history ==================================================================
+$> git -C /var/folders/5j/r7z9hgb55nzcnnxn1gqrzcqc0000gq/T/tmpkapRof/user log --pretty='%H - %an, %ad : %s'
+71d8f2ad345e5dd7e9392b100f2bedc92d45514f - Xavier GILBERT, Wed Feb 21 12:38:43 2018 +0100 : lvl 3
+fab74bd5b4cf6f42b5b6c1ea689ad2ac84f13593 - Xavier GILBERT, Wed Feb 21 12:27:21 2018 +0100 : lvl 3
+0eb845bc45cb789c68740bad244d4174cf326d9a - Xavier GILBERT, Wed Feb 21 11:47:01 2018 +0100 : lvl 2
+8024f5c9dc80f6a045786437328b353c9871bebf - Xavier GILBERT, Wed Feb 21 11:23:24 2018 +0100 : lvl 1
+5634c52ac0cbf3062bb9054cd7c1f5d7ef9595c9 - Xavier GILBERT, Wed Feb 21 11:10:30 2018 +0100 : lvl 0
+ 
+= Collected files ==========================================
+$> ls -lAR /var/folders/5j/r7z9hgb55nzcnnxn1gqrzcqc0000gq/T/tmpkapRof/user
+total 8
+-rw-r--r--  1 deepthought  deepthought  1252 Feb 21 13:23 __GIT_HISTORY
+drwxr-xr-x  3 deepthought  deepthought   102 Feb 21 13:23 aff_z
+drwxr-xr-x  3 deepthought  deepthought   102 Feb 21 13:23 do_op
+drwxr-xr-x  3 deepthought  deepthought   102 Feb 21 13:23 epur_str
+drwxr-xr-x  3 deepthought  deepthought   102 Feb 21 13:23 pgcd
+drwxr-xr-x  3 deepthought  deepthought   102 Feb 21 13:23 rotone
+
+/var/folders/5j/r7z9hgb55nzcnnxn1gqrzcqc0000gq/T/tmpkapRof/user/aff_z:
+total 8
+-rw-r--r--  1 deepthought  deepthought  1252 Feb 21 13:23 aff_z.c
+
+/var/folders/5j/r7z9hgb55nzcnnxn1gqrzcqc0000gq/T/tmpkapRof/user/do_op:
+total 8
+-rw-r--r--  1 deepthought  deepthought  1707 Feb 21 13:23 do_op.c
+
+/var/folders/5j/r7z9hgb55nzcnnxn1gqrzcqc0000gq/T/tmpkapRof/user/epur_str:
+total 8
+-rw-r--r--  1 deepthought  deepthought  1536 Feb 21 13:23 epur_str.c
+
+/var/folders/5j/r7z9hgb55nzcnnxn1gqrzcqc0000gq/T/tmpkapRof/user/pgcd:
+total 8
+-rw-r--r--  1 deepthought  deepthought  1258 Feb 21 13:23 pgcd.c
+
+/var/folders/5j/r7z9hgb55nzcnnxn1gqrzcqc0000gq/T/tmpkapRof/user/rotone:
+total 8
+-rw-r--r--  1 deepthought  deepthought  1355 Feb 21 13:23 rotone.c
+ 
+= rev_wstr =====================================================================
+Nothing turned in
+Grade: 0
+
+= Final grade: 0 ===============================================================

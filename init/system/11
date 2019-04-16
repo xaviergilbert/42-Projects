@@ -1,0 +1,21 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    11                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/19 16:17:30 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 20:54:54 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Quelle commande permet d’afficher
+# l’espace disponible et utilisé sur le système
+# d’une manière humainement compréhensible ?
+#
+# df => indique les quantités d'espaces disques utilisées
+# et disponibles sur les systèmes de fichiers
+# -h = human readable
+
+echo 'df -h'

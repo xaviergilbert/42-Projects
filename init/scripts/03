@@ -1,0 +1,25 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    03                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/19 20:04:54 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/20 15:18:53 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Jamais 2 sans 3.
+# Réalise un script de ton choix.
+# La qualité de ton script, devant ton évaluateur tu soutiendras.
+
+# Installation vim, git, ohmyzzsh, sublivim
+
+sudo apt-get install curl &&
+sudo apt-get install zsh &&
+sudo apt-get install git &&
+sudo apt-get install vim &&
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" &&
+curl http://install.sublivim.com | sh || curl https://raw.githubusercontent.com/reversTeam/Sublivim/master/installer.sh | sh &&
+zsh

@@ -1,0 +1,7 @@
+Credentials cache: API:4DD86A9B-3975-46AA-8530-DB9268A3B876
+        Principal: xgilbert@42.FR
+
+  Issued                Expires               Principal
+Aug 28 17:32:24 2017  Sep  4 17:32:24 2017  krbtgt/42.FR@42.FR
+Aug 28 17:32:26 2017  Sep  4 17:32:24 2017  ldap/ldap-proxy.42.fr@42.FR
+Aug 28 17:32:26 2017  Sep  4 17:32:24 2017  HTTP/student-storage-2.42.fr@42.FR

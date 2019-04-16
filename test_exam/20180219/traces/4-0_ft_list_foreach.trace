@@ -1,0 +1,82 @@
+= Host-specific information ====================================================
+$> hostname; uname -msr
+e3r6p15.42.fr
+Darwin 16.7.0 x86_64
+$> date
+Mon Feb 19 16:10:46 CET 2018
+$> gcc --version
+Configured with: --prefix=/Applications/Xcode.app/Contents/Developer/usr --with-gxx-include-dir=/usr/include/c++/4.2.1
+Apple LLVM version 9.0.0 (clang-900.0.38)
+Target: x86_64-apple-darwin16.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+$> clang --version
+Apple LLVM version 9.0.0 (clang-900.0.38)
+Target: x86_64-apple-darwin16.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+
+= User files collection ========================================================
+Collecting user files from Vogsphere
+Repository URL: auto-exam/2018/c-exam-alone-in-the-dark-beginner/practice-exam_20180219/xgilbert
+
+= Git history ==================================================================
+$> git -C /var/folders/vr/yr6rnqvd5kx90_3_w08rd9ph0000gq/T/tmpZdtWBp/user log --pretty='%H - %an, %ad : %s'
+9e700d056595f22a658979218a51af82c65deb20 - Xavier GILBERT, Mon Feb 19 16:10:36 2018 +0100 : lvl 4
+31a6b47f2bef453e41d816bcb10f871ba3afd26b - Xavier GILBERT, Mon Feb 19 15:50:28 2018 +0100 : lvl 3
+6cadf2ac0cfce29338171befd51ea66b2b6d6027 - Xavier GILBERT, Mon Feb 19 14:59:55 2018 +0100 : lvl 2
+656f92141b5956f7c22eebe19d9a7379a3d423d5 - Xavier GILBERT, Mon Feb 19 14:47:29 2018 +0100 : lvl 1
+0d94834e0dfb7bdc286988987245022a92427409 - Xavier GILBERT, Mon Feb 19 14:31:28 2018 +0100 : lvl 1
+a0bcfbb0c65ea0952974e7fcaf626ecc2c11ff69 - Xavier GILBERT, Mon Feb 19 14:27:38 2018 +0100 : lvl 0
+ 
+= Collected files ==========================================
+$> ls -lAR /var/folders/vr/yr6rnqvd5kx90_3_w08rd9ph0000gq/T/tmpZdtWBp/user
+total 8
+-rw-r--r--  1 deepthought  deepthought  1574 Feb 19 16:10 __GIT_HISTORY
+drwxr-xr-x  3 deepthought  deepthought   102 Feb 19 16:10 aff_first_param
+drwxr-xr-x  4 deepthought  deepthought   136 Feb 19 16:10 ft_list_foreach
+drwxr-xr-x  3 deepthought  deepthought   102 Feb 19 16:10 ft_strrev
+drwxr-xr-x  3 deepthought  deepthought   102 Feb 19 16:10 ft_swap
+drwxr-xr-x  3 deepthought  deepthought   102 Feb 19 16:10 repeat_alpha
+drwxr-xr-x  3 deepthought  deepthought   102 Feb 19 16:10 tab_mult
+
+/var/folders/vr/yr6rnqvd5kx90_3_w08rd9ph0000gq/T/tmpZdtWBp/user/aff_first_param:
+total 8
+-rw-r--r--  1 deepthought  deepthought  1194 Feb 19 16:10 aff_first_param.c
+
+/var/folders/vr/yr6rnqvd5kx90_3_w08rd9ph0000gq/T/tmpZdtWBp/user/ft_list_foreach:
+total 16
+-rw-r--r--  1 deepthought  deepthought  1012 Feb 19 16:10 ft_list.h
+-rw-r--r--  1 deepthought  deepthought  1106 Feb 19 16:10 ft_list_foreach.c
+
+/var/folders/vr/yr6rnqvd5kx90_3_w08rd9ph0000gq/T/tmpZdtWBp/user/ft_strrev:
+total 8
+-rw-r--r--  1 deepthought  deepthought  1151 Feb 19 16:10 ft_strrev.c
+
+/var/folders/vr/yr6rnqvd5kx90_3_w08rd9ph0000gq/T/tmpZdtWBp/user/ft_swap:
+total 8
+-rw-r--r--  1 deepthought  deepthought  966 Feb 19 16:10 ft_swap.c
+
+/var/folders/vr/yr6rnqvd5kx90_3_w08rd9ph0000gq/T/tmpZdtWBp/user/repeat_alpha:
+total 8
+-rw-r--r--  1 deepthought  deepthought  1426 Feb 19 16:10 repeat_alpha.c
+
+/var/folders/vr/yr6rnqvd5kx90_3_w08rd9ph0000gq/T/tmpZdtWBp/user/tab_mult:
+total 8
+-rw-r--r--  1 deepthought  deepthought  1550 Feb 19 16:10 tab_mult.c
+ 
+= ft_list_foreach ==============================================================
+$> clang -Wextra -Wall -Werror main.c ft_list_foreach.c -o user_exe 
+ft_list_foreach.c:19:15: error: variable 'list_ptr' is uninitialized when used here [-Werror,-Wuninitialized]
+        begin_list = list_ptr;
+                     ^~~~~~~~
+ft_list_foreach.c:17:19: note: initialize the variable 'list_ptr' to silence this warning
+        t_list          *list_ptr;
+                                 ^
+                                  = 0
+1 error generated.
+
+Could not compile 'user_exe'
+Grade: 0
+
+= Final grade: 0 ===============================================================

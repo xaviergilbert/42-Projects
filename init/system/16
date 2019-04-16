@@ -1,0 +1,21 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    16                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/19 17:15:22 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 20:55:20 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Trouvez un service qui permet de lancer des tâches à horaires régulières
+
+# https://www.linuxtricks.fr/wiki/cron-et-crontab-le-planificateur-de-taches
+
+# crontab => Crontab est un outil qui permet de lancer des applications 
+# de façon régulière, pratique pour un serveur pour y lancer des scripts
+# de sauvegardes, etc.
+
+echo 'cron'

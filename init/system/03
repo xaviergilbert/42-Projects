@@ -1,0 +1,18 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    03                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/19 15:13:53 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 20:53:39 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Quel est le fichier à modifier pour rendre cela permanent ?
+
+# le fichier qui contient le nom de la machine et qui permet du coup de
+# modifier son nom est /etc/hostname
+#
+echo '/etc/hostname/'

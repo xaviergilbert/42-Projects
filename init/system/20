@@ -1,0 +1,17 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    20                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/19 19:00:19 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 19:06:51 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Listez tout les utilisateurs existants sur la machine
+
+#http://www.lostsaloon.com/technology/how-to-list-all-users-in-linux/
+
+echo 'cut -d: -f1 /etc/passwd'

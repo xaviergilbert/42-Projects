@@ -1,0 +1,26 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    06                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/19 15:35:45 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/20 14:40:50 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Donnez une commande pour redémarrer le service SSH
+
+# https://www.cyberciti.biz/faq/howto-restart-ssh/
+# https://www.cyberciti.biz/faq/howto-start-stop-ssh-server/
+
+# sudo /etc/init.d/ssh restart
+# ou
+# sudo systemctl restart ssh
+# ou
+# sudo service ssh restart
+
+# verifier que la commande fonctionne :
+# sudo /etcinit.d/ssh status 
+echo 'sudo systemctl restart ssh'

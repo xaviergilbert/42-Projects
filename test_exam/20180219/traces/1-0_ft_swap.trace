@@ -1,0 +1,57 @@
+= Host-specific information ====================================================
+$> hostname; uname -msr
+e2r4p16.42.fr
+Darwin 16.7.0 x86_64
+$> date
+Mon Feb 19 14:31:48 CET 2018
+$> gcc --version
+Configured with: --prefix=/Applications/Xcode.app/Contents/Developer/usr --with-gxx-include-dir=/usr/include/c++/4.2.1
+Apple LLVM version 9.0.0 (clang-900.0.38)
+Target: x86_64-apple-darwin16.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+$> clang --version
+Apple LLVM version 9.0.0 (clang-900.0.38)
+Target: x86_64-apple-darwin16.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+
+= User files collection ========================================================
+Collecting user files from Vogsphere
+Repository URL: auto-exam/2018/c-exam-alone-in-the-dark-beginner/practice-exam_20180219/xgilbert
+
+= Git history ==================================================================
+$> git -C /var/folders/hb/7bcyrf6x79794pl9md1g4k_80000gq/T/tmpdYkVoj/user log --pretty='%H - %an, %ad : %s'
+0d94834e0dfb7bdc286988987245022a92427409 - Xavier GILBERT, Mon Feb 19 14:31:28 2018 +0100 : lvl 1
+a0bcfbb0c65ea0952974e7fcaf626ecc2c11ff69 - Xavier GILBERT, Mon Feb 19 14:27:38 2018 +0100 : lvl 0
+ 
+= Collected files ==========================================
+$> ls -lAR /var/folders/hb/7bcyrf6x79794pl9md1g4k_80000gq/T/tmpdYkVoj/user
+total 8
+-rw-r--r--  1 deepthought  deepthought  488 Feb 19 14:31 __GIT_HISTORY
+drwxr-xr-x  3 deepthought  deepthought  102 Feb 19 14:31 aff_first_param
+drwxr-xr-x  3 deepthought  deepthought  102 Feb 19 14:31 ft_swap
+
+/var/folders/hb/7bcyrf6x79794pl9md1g4k_80000gq/T/tmpdYkVoj/user/aff_first_param:
+total 8
+-rw-r--r--  1 deepthought  deepthought  1194 Feb 19 14:31 aff_first_param.c
+
+/var/folders/hb/7bcyrf6x79794pl9md1g4k_80000gq/T/tmpdYkVoj/user/ft_swap:
+total 8
+-rw-r--r--  1 deepthought  deepthought  966 Feb 19 14:31 ft_swap.c
+ 
+= ft_swap ======================================================================
+$> clang -Wextra -Wall -Werror ft_swap.c main.c -o user_exe 
+ft_swap.c:17:3: error: variable 'c' is uninitialized when used here [-Werror,-Wuninitialized]
+        *c = *a;
+         ^
+ft_swap.c:15:9: note: initialize the variable 'c' to silence this warning
+        int             *c;
+                          ^
+                           = 0
+1 error generated.
+
+Could not compile 'user_exe'
+Grade: 0
+
+= Final grade: 0 ===============================================================

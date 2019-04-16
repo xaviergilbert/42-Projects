@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/xgilbert/xgilbert/GitHub/init","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}},"virtualbox":{"/git":{"guestpath":"/git","hostpath":"/Users/xgilbert/xgilbert/GitHub/init","disabled":false,"__vagrantfile":true}}}

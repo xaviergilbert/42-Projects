@@ -1,0 +1,27 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    05                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/12 15:11:55 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 20:52:17 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Identifiez l’IP du serveur DNS qui
+# répond sur le domaine suivant : slash16.org
+
+# https://www.commentcamarche.com/contents/711-nslookup
+
+# Nslookup (Name System Look Up) est un outil permettant d'interroger
+# un serveur de noms afin d'obtenir les informations concernant un domaine
+# ou un hôte et permet ainsi de diagnostiquer les éventuels
+# problèmes de configuration du DNS.
+
+# grep Address permet de faire une premiere selection
+# cut -d " " -f2 permet de selectionner 2eme champs
+#grep -v permet de recuperer les lignes ne contenant pas le critere
+
+nslookup slash16.org | grep Address | cut -d " " -f2 | grep -v "Address:"

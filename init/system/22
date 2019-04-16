@@ -1,0 +1,19 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    22                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/19 19:04:23 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 19:05:50 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Quelle commande permet d’ajouter un utilisateur local supplémentaire ?
+
+# https://askubuntu.com/questions/410244/a-command-to-list-all-users-and-how-to-add-delete-modify-users
+
+echo 'sudo adduser new_username
+or
+sudo useradd new_username'

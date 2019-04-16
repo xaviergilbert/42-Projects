@@ -1,0 +1,19 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    08                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/12 15:33:33 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 20:52:37 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Trouver chez quel hébergeur est le site de Slash16
+#
+# On peut trouver l'herbergeur grace a la commande 
+# "whois [adresse IP]"
+#ex :
+whois 143.204.222.8
+# l hebergeur est amazon.com

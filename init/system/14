@@ -1,0 +1,30 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    14                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/19 16:49:13 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 20:55:10 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Lancez en background la commande tail -f /var/log/syslog
+# https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux/40849-executer-des-programmes-en-arriere-plan
+#
+# -f => output appended data as the file grows
+
+# le & en fin de ligne de commande lance la tache en arriere plan
+# "[i]" i = numero du processus en cours
+
+# nohup lance le processus de facon independante du fonctionnement de la console
+
+# ctrl + z : met en pause l'execution du programme
+# bg passe le processus en arriere plan (apres l'avoir mis en pause)
+# jobs affiche es processus en arriere plan
+# fg %numero dans jobs repasse au premier plan
+
+echo 'sudo tail -f /var/log/syslog &'
+echo 'ou'
+echo 'nohup tail -f /var/log/syslog'

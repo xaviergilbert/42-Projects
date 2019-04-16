@@ -1,0 +1,91 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    19                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/12/19 18:00:34 by xgilbert          #+#    #+#              #
+#    Updated: 2018/12/19 20:55:38 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Listez les services qui se lancent automatiquement lorsque la machine boot et
+# indiquez le nom donné à ce type de service
+
+echo "La commande lancee sur la machine est :
+ps -U0 -o 'tty,pid,comm' | grep ^? | awk '{print $NF}'
+"
+
+echo "Elle renvoie ces daemons :
+systemd
+kthreadd
+ksoftirqd/0
+kworker/0:0H
+rcu_sched
+rcu_bh
+migration/0
+lru-add-drain
+watchdog/0
+cpuhp/0
+cpuhp/1
+watchdog/1
+migration/1
+ksoftirqd/1
+kworker/1:0
+kworker/1:0H
+kdevtmpfs
+netns
+khungtaskd
+oom_reaper
+writeback
+kcompactd0
+ksmd
+crypto
+kintegrityd
+bioset
+kblockd
+devfreq_wq
+watchdogd
+kswapd0
+vmstat
+kthrotld
+ipv6_addrconf
+ata_sff
+bioset
+bioset
+bioset
+bioset
+bioset
+bioset
+bioset
+bioset
+kworker/0:2
+kworker/u4:1
+scsi_eh_0
+scsi_tmf_0
+bioset
+kworker/1:1H
+kworker/0:1H
+kworker/u5:0
+jbd2/sda1-8
+ext4-rsv-conver
+systemd-journal
+kauditd
+kworker/1:3
+systemd-udevd
+ttm_swap
+iprt-VBoxWQueue
+irqbalance
+cron
+systemd-logind
+rsyslogd
+sshd
+dhclient
+VBoxService
+kworker/0:3
+sshd
+kworker/u4:2
+"
+echo 'Les services qui se lancent automatiquement lorsque la machine boot
+sont les daemons'
