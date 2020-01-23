@@ -1,0 +1,26 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    answers.txt                                        :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: xgilbert <xgilbert@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2020/01/13 10:59:16 by xgilbert          #+#    #+#              #
+#    Updated: 2020/01/13 11:36:43 by xgilbert         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#output a list of installed packages
+help("modules") 
+
+#output a list of installed packages and their versions
+pip list
+
+#Show the package metadata of numpy.
+pip show numpy
+
+#Search for PyPI packages whose name or summary contains "tesseract".
+pip search tesseract
+
+#Freeze the packages and their current versions in a requirements.txt file you have to turn-in.
+pip freeze > requirements.txt
