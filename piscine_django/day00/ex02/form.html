@@ -1,0 +1,34 @@
+#Faire liaison js html
+
+<!DOCtYPE html>
+<html>
+        <head>
+            <title>Mon CV personnalise</title>
+            <meta charset="utf-8"/>
+            <style type="text/css">
+                table {
+                  border: solid;
+                  border-collapse: collapse;
+                }
+                </style>
+        </head>
+        <body>
+            <input type="text" id="FirstName" name="Firstname">
+            <input type="text" id="Name" name="Name">
+            <input type="number">
+            <input type="tel">
+            <input type="email">
+            <legend>Student at 42 ?</legend>
+                <input type="checkbox" id="42_student">
+                <label for="42_student">Oui</label>
+                <label for="42_student">Non</label>
+            <legend>Gender</legend>
+                <input type="radio" id="Male">
+                <label for="Male">Male</label>
+                <input type="radio" id="Female">
+                <label for="Female">Female</label>
+                <input type="radio" id="Other">
+                <label for="Other">Other</label>
+            <input type="submit" value="Submit" onclick="displayFormContent();">
+        </body>
+</html>

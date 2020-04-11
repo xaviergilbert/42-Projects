@@ -1,0 +1,1288 @@
+
+
+
+
+{{Infobox Pays
+ nom                     = République française
+ image_drapeau           = Flag of France.svg
+ lien_drapeau            = Drapeau de la France
+ image_blason            = Armoiries république française.svg
+ lien_blason             = Armoiries de la France 
+ image_carte             = Mapadefrancia.svg
+ descr_carte             = La République française (en bleu) dans le monde avec l'Union européenne en jaune clair.
+ upright carte           = 1.2
+ devise                  = Liberté, Égalité, Fraternité
+ capitale                = Paris
+ coordonnées_capitale   = 
+ lien_villes             = Villes de France
+ titre_plus_grande_ville = Plus grandes villes
+ plus_grande_ville       = Paris, Lyon, Marseille
+ type_gouvernement       = République constitutionnelle unitaire Régime semi-semi-présidentielle (régime républicain français)
+ titre_dirigeant         = Président de la République
+ nom_dirigeant           = Emmanuel Macron
+ titre_dirigeant2        = Premier ministre
+ nom_dirigeant2          = Édouard Philippe
+ titre_dirigeant3        = Président du Sénat
+ nom_dirigeant3          = Gérard Larcher
+ titre_dirigeant4        = Liste des présidents de l'Président de l'Assemblée nationale
+ nom_dirigeant4          = Richard Ferrand
+ titre_parlement         = Parlement
+ nom_parlement           = Assemblée nationale<br/>Sénat
+ superficie_rang         = 41
+ superficie_totale       = ) est exclue de ce décompte.</ref>
+ pourcentage_eau         = 0,26 %
+ population_rang         = 20
+ population_rang_ref     = <ref>Sources multiples : voir liste des pays par population.</ref>
+ population_totale       = .</ref>
+ population_année       = 
+ densité                = .</ref>
+ type_formation2         = Baptême de Clovis
+ date_formation2         = 
+ type_formation3         = Sacre de Charlemagne
+ date_formation3         = 
+ type_formation4         = Traité de Verdun
+ date_formation4         = 
+ type_formation5         = Capétiens
+ date_formation5         = 
+ type_formation6         = Valois
+ date_formation6         = 
+ type_formation7         = Guerre de Cent Ans
+ date_formation7         = 
+ type_formation8         = Ordonnance de Villers-Cotterêts
+ date_formation8         = 
+ gentilé                = Français, Française 
+ PIB_PPA                 =  de $<br/>+1,4 %
+ PIBPPA_année           = avril 2019
+ PIB_PPA_année          = avril 2019
+ PIB_PPA_rang            = /193
+ PIBPPA_rang             = /193
+ PIB                     =  de $<br/>+1,7 %
+ PIB_année              = avril 2019
+ PIB_rang                = /193
+ PIB_PPA_HAB             = 
+ PIBHAB_PPA_année       = avril 2019
+ PIBHAB_PPA_rang         = /193
+ IDH                     =  0,901
+ IDH_année              = 2018
+ IDH_catégorie          = très élevé<ref name=IDH> [http://hdr.undp.org/en/2018-update "Rapport sur l'Indice du Développement Humain publié le 14 septembre 2018], sur le site undp.org.</ref>
+ IDH_rang                = 
+ monnaie                 = Euro et Franc Pacifique<ref group=N>Franc Pacifique dans les collectivités du Pacifique :<br/> environ (source officielle IEOM).</ref>
+ code_monnaie            = EUR et XPF
+ fuseau_horaire          = UTC+01:+1 (Heure normale d'HNEC, heure d'hiver)<br/>UTC UTC+02:+2 (Heure d'été d'HAEC, heure d’été)<br/>France d'outre-mer :<br/>UTC UTC−03:-3 : Guyane, Saint-Pierre-et-Miquelon <br/>UTC UTC−04:-4 : Saint-Saint-Martin, Saint-Saint-Barthélemy, Guadeloupe, Martinique<br/>UTC UTC−08:-8 : Clipperton<br/>UTC UTC−10:-10 : Polynésie française<br/>UTC UTC−09:-9,5 : Polynésie française <br/>UTC UTC−09:-9 : Polynésie française<br/>UTC UTC+03:+3 : Mayotte, île Europa<br/>UTC UTC+04:+4 : îles Crozet, La Réunion, îles Glorieuses, île Tromelin, Juan de Nova<br/>UTC UTC+05:+5 : Saint-Paul-et-Amsterdam, îles Kerguelen<br/>UTC UTC+10:+10, Terre Adelie<br/>UTC UTC+11:+11 : Nouvelle-Calédonie<br/>UTC UTC+12:+12 : Wallis-et-Futuna
+
+ hymne_national          = La Marseillaise Fichier:La Marseillaise.Hymne de la France.
+ domaine_internet        = .fr<ref group=N>.gp, .mq, .gf, .re, .pm, .yt, .tf, .wf, ..pf et .nc pour les départements, régions et collectivités d’outre-mer, ainsi que .eu (partagé avec les autres pays de l’Union européenne).</ref>
+ iso3166-1               = FRA, FR
+ indicatif_téléphonique = 33 <small>(métropole)</small><br />590 <small>(Guadeloupe, Saint-Martin et Saint-Barthélémy)</small><br />594 <small>(Guyane)</small><br />596 <small>(Martinique)</small><br />262 <small>(La Réunion, Mayotte)</small><br />508 <small>(Saint-Pierre-et-Miquelon)</small><br />687 <small>(Nouvelle-Calédonie)</small><br />689 <small>(Polynésie française)</small>
+ organisations_internationales = G20
+ type_langues            = Langue officielle
+ langues_officielles     = Français|superficie_métropole
+ type_formation9         = Ancien Régime/Bourbons
+ type_formation10        = Révolution française
+ type_formation11        = Monarchie constitutionnelle
+ type_formation12        = Première République
+ type_formation13        = Consulat
+ type_formation14        = Premier Empire
+ type_formation15        = Première Restauration
+ type_formation16        = Cent-Jours
+ type_formation17        = Seconde Restauration
+ type_formation18        = Monarchie de Juillet
+ type_formation19        = Deuxième République
+ type_formation20        = Second Empire
+ type_formation21        = Troisième République
+ type_formation22        = Régime de Vichy
+ type_formation23        = Gouvernement provisoire de la République française
+ type_formation24        = Quatrième République
+ type_formation25        = Cinquième République <small>(Constitution actuelle)</small>
+ date_formation9         = 
+ date_formation10        = 
+ date_formation11        = 
+ date_formation12        = 
+ date_formation13        = 
+ date_formation14        = 
+ date_formation15        = 
+ date_formation16        = 
+ date_formation17        = 
+ date_formation18        = 
+ date_formation19        = 
+ date_formation20        = 
+ date_formation21        = 
+ date_formation22        = 
+ date_formation23        = 
+ date_formation24        = 
+ date_formation25        = 
+ PIBHABNOM_année        = avril 2019
+ PIB_HABNOM              = <br/>+1,4 %
+ PIBHABNOM_rang          = /193
+ chômage_année         = 2019
+ chômage                =  8,5 % de la pop. active<br/>-0,6 %
+ dette_année            = décembre 2018
+ dette                   =  d'€
+ fête_nationale         = 14 Juillet
+ fête_evt               = La prise de la Bastille (1789) et la Fête de la Fédération (1790)
+}}
+
+La France (), est un État souverain transcontinental dont le territoire métropolitain est situé en Europe de l'Ouest. Ce dernier a des frontières terrestres avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne et les deux principautés d'Andorre et de Monaco. La France dispose aussi d'importantes façades maritimes sur l'Atlantique et la Méditerranée. Son France d'outre-territoire ultramarin s'étend dans les océans Indien, Atlantique et Pacifique ainsi qu'en Amérique du Sud, et a des frontières terrestres avec le Brésil, le Suriname et les Pays-Bas.
+
+Fruit d'une histoire politique longue et mouvementée, la France est une république constitutionnelle unitaire ayant un régime semi-présidentiel. La devise de la République est depuis 1875 « Liberté, Égalité, Fraternité » et son drapeau est constitué des trois couleurs nationales : bleu, blanc, rouge. Son hymne national est La Marseillaise, chant patriotique hérité de la Révolution française. Son principe constitutif est la démocratie : le « gouvernement du peuple, par le peuple et pour le peuple ». Elle a pour capitale Paris et pour langue officielle le français depuis Ordonnance de Villers-1539, remplaçant le latin. Ses monnaies sont l'euro depuis 2002 dans la majeure partie du pays et le franc Pacifique dans ses territoires de l'océan Pacifique.
+
+La France tire son nom des Francs, peuple germanique qui a institué les premiers fondements de son État sur les bases de la Gaule romaine. C'est au fil des siècles, par des guerres, des mariages politiques et des unions souveraines, que cet État monarchique et catholique va peu à peu constituer autour de lui une véritable fédération de provinces, qui finira par se cristalliser en une nation unique grâce à une politique d'uniformisation administrative et culturelle, portée à son aboutissement par la Révolution française et la fin du régime féodal.
+
+Du milieu du </ref>, l'un des cinq membres permanents du Conseil de sécurité des Nations unies et membre de l'Organisation du traité de l'OTAN, la France est également membre du G7, du G20, du Conseil de l'Europe, de la zone euro, de l'espace Schengen, de la commission de l'océan Indien, de la communauté du Pacifique et abrite le siège du Conseil de l'Europe, de l'Organisation des Nations unies pour l'éducation,UNESCO, de l'OCDE, etc. Elle exerce ainsi une influence notable en matière politique, économique, militaire et culturelle, en Europe et dans le reste du monde.
+
+Seul pays au monde à exercer sa souveraineté sur des territoires répartis sur trois océans et deux continents<ref>France-sur-Mer, un empire oublié de Philippe Folliot et Xavier Louy.</ref>.</ref>.
+
+La France est, avec un PIB nominal de  dans les Collectivité d'outre-collectivités d'outre-mer et en Nouvelle-Calédonie.
+
+Deuxième pays le plus peuplé de l'Union européenne derrière l'Allemagne, la France est aussi le plus vaste de l'Union européenne et le troisième pays le plus vaste d'Europe<ref name='idh_onu'> [http://hdr.undp.org/en/media/HDR_2010_FR_Tables.pdf Rapport sur le développement humain 2010], sur le site des Nations unies.</ref>. Sa culture et sa civilisation sont diffusées par les pays francophones à travers le monde, réunis dans l'Organisation internationale de la francophonie. Traditionnellement utilisé comme langue de la diplomatie, le français est la quinzième langue maternelle la plus parlée au monde et une des langues ayant la plus grande diffusion internationale. Il est une des six langues officielles et une des deux langues de travail (avec l'anglais) de l'Organisation des Nations unies, l'une des deux langues officielles du Comité international olympique, et langue officielle ou de travail de plusieurs organisations internationales ou régionales. Le français est également l'une des trois langues de travail de l'Union européenne, avec l'allemand et l'anglais.
+
+
+
+ Géographie 
+
+ Localisation, frontières et superficie
+
+Fichier:Carte physique simplifiée de la France.Carte physique simplifiée de la France métropolitaine.|alt=Une carte physique de la France, simplifiée à l’extrême.
+La partie européenne de la France est appelée France métropolitaine. Elle est située à l’extrémité occidentale de l’Europe, et sa délimitation est restée inchangée depuis la fin de la Seconde Guerre mondiale et le traité de Paris en 1947. Elle est bordée par la mer du Nord au nord, la Manche au nord-nord-ouest, la mer Celtique à l'ouest-nord-ouest, le golfe de Gascogne à l'ouest et la mer Méditerranée au sud-est. Elle est frontalière de la Belgique au nord-nord-est, du Luxembourg au nord-est, de l’Allemagne à l'est-nord-est, de la Suisse à l’est, de l’Italie à l'est-sud-est, de Monaco au sud-est et de l’Espagne et Andorre au sud-sud-ouest.
+
+Les frontières à l'est, au sud-est et au sud-ouest du territoire métropolitain sont établies en s'appuyant sur des cours d'eau et des massifs montagneux, à savoir le Rhin, le Jura, le Léman, les Alpes et les Pyrénées<ref group="N">Une partie de la frontière entre l'Allemagne et la France correspond néanmoins au cours du Rhin.</ref>, tandis qu'au nord-est la frontière ne se fonde pas sur des éléments naturels.
+
+
+La France est également composée de nombreux territoires situés en dehors du continent européen, couramment appelés France d'outre-mer, qui lui permettent d’être présente dans tous les océans du monde sauf l'océan Arctique.
+
+Ces territoires ont des statuts variés dans l'administration territoriale de la France et sont situés :
+* en Amérique du Nord : Saint-Pierre-et-Miquelon ;
+* en Amérique du Sud : la Guyane ;
+* dans les Antilles : la Guadeloupe, la Martinique, Saint-Saint-Barthélemy et Saint-Saint-Martin ;
+* dans l’océan Pacifique : la Nouvelle-Calédonie, la Polynésie française et Wallis-et-Futuna, ainsi que l'île Clipperton ;
+* dans l’océan Indien : La Réunion et Mayotte, ainsi que les Îles Éparses de l'îles Éparses, les îles Kerguelen, l'archipel des Crozet et les îles Saint-Paul et Nouvelle-Amsterdam qui forment les Terres australes et antarctiques françaises (TAAF) ; 
+* en Antarctique : la terre Adélie<ref group="N">La souveraineté de la France sur ce territoire, contestée par l’Australie, est en outre limitée par les clauses du Traité sur l'traité sur l’Antarctique.</ref>, également incluse dans les TAAF.
+
+La France possède des frontières terrestres avec le Brésil et le Suriname en Guyane, ainsi qu’avec les Pays-Bas via la partie française de Saint-Martin.
+
+La longueur du littoral de la France métropolitaine est de .</ref>.
+
+Selon  l'Insee la France couvre () qui prend en compte toutes les surfaces jusqu'à la laisse de basse mer. Ce dernier constitue la valeur officielle. 
+
+Des différences similaires apparaissent pour la superficie de la France métropolitaine et des DOM qui s'établit à .
+
+La France est le  plus grand État du monde par sa surface terrestre. C'est aussi le troisième plus grand pays d’Europe, après la Russie et l’Ukraine, ou le deuxième si on inclut les départements ultra-marins, et le plus grand de l’Union européenne.
+
+ Géologie, topographie et hydrographie 
+Fichier:France geological map-fr.Géologie de la France métropolitaine.
+
+
+Le territoire métropolitain de la France offre une grande variété d’ensembles topographiques et de paysages naturels<ref group="b" name="p19-38-39">.</ref>.
+
+Ces massifs délimitent plusieurs bassins sédimentaires, notamment le Bassin aquitain au sud-ouest et le Bassin parisien au nord<ref group="b" name="p39"/>&nbsp;—&nbsp;ce dernier comprend plusieurs régions au sol particulièrement fertile, notamment les plateaux limoneux de la Beauce et de la Brie<ref group="b">.</ref>.
+
+Le réseau hydrographique de la France est principalement organisé autour de quatre grands fleuves, la Loire, la Seine, la Garonne et le Rhône<ref group="b" name="p35-36">.</ref>, auxquels on peut ajouter la Meuse et le Rhin, moins importants en France mais majeurs à l’échelle européenne. Le bassin versant français des quatre premiers correspond à plus de 62 % du territoire métropolitain<ref group="b" name="p35-36"/>.
+
+Les territoires ultramarins, de par leur dispersion dans différents océans et continents, présentent tous des caractéristiques topographiques spécifiques. Ils partagent toutefois un certain nombre de points communs, notamment des contraintes, des risques ou des potentialités physiques, à commencer par l'insularité (à l'exception de la Guyane)<ref>].</ref>.
+
+Les âges plus ou moins anciens des épisodes volcaniques qui ont provoqué leur formation expliquent des degrés divers d'érosion des reliefs, de subsidences, de formations de récifs coralliens et de dépôts calcaires. De ce fait, plusieurs de ces îles conservent un reliquat rocheux plus ou moins élevé des anciens volcans (les « îles hautes », avec ou sans bordure corallienne), qu'ils soient inactifs (dans la plupart des îles hautes de Polynésie française comme Tahiti, les îles Matthew et Hunter en Nouvelle-Calédonie, Wallis-et-Futuna, Mayotte, les îles Kerguelen en TAAF), potentiellement actifs (l'île de la Possession dans l'archipel Crozet et les TAAF), ou actifs (la Soufrière sur Basse-Basse-Terre en Guadeloupe, la Montagne Pelée en Martinique, le Piton de la Fournaise à La Réunion, Mehetia dans l'archipel de la Société en Polynésie française, Îles Saint-Paul et Nouvelle-Saint-Paul-et-Amsterdam dans les TAAF)<ref name=gnr/>. C'est dans ces îles hautes que se trouvent les points culminants de l'Outre-mer français. Les deux seuls territoires ultramarins à avoir des sommets dépassant les ).
+
+Les îles les plus anciennes ou touchées par d'autres phénomènes géologiques ont des reliefs beaucoup moins élevés et des sols davantage calcaires, ayant pu devenir des presqu'atolls (Clipperton, potentiellement Fatu Huku aux Marquises en Polynésie française), des atolls surélevés (Grande-Grande-Terre, Marie-Galante, La Désirade et les îles de la Petite-Terre en Guadeloupe, Saint-Saint-Martin et Saint-Saint-Barthélemy, les îles Loyauté mais aussi l'île des Pins en Nouvelle-Calédonie, Alofi à Wallis-et-Futuna, Makatea dans les Tuamotu ou Bora-Bora et Huahine dans l'archipel de la Société en Polynésie française, l'île Tromelin dans les îles Éparses de l'océan Indien et les TAAF) ou des atolls (nombreux en Polynésie française, également dans les récifs d'Entrecasteaux en Nouvelle-Calédonie, les îles Éparses de l'océan Indien dans les TAAF)<ref name=gnr/>.
+
+Par ailleurs, l'archipel de la Nouvelle-Calédonie présente la particularité parmi les ensembles insulaires de l'Outre-mer français de n'avoir aucun lien avec une activité volcanique, ayant été formé par une série d'obductions du manteau au-dessus d'une partie des terres émergées du microcontinent Zealandia, ce qui explique sa richesse en roches ultramafiques (péridotites) et, par l'altération de ces dernières, en nickel. La Grande Terre (Nouvelle-Grande Terre, qui constitue la plus grande île française, et l'ensemble des îles qui la prolonge au nord-ouest (Bélep) et au sud-est (l'île des Pins) sont entourées d'une barrière de corail de )<ref name=gnr/>.
+
+Seuls territoires continentaux de la France d'outre-mer, la Guyane et la Terre-Adélie, sont tous les deux des composantes de cratons d'âges Précambriens où prédominent les roches métamorphiques (respectivement le plateau des Guyanes et celui d'Antarctique oriental) et, pour leurs littoraux comme pour les sols immergés, de marges continentales. Toutes deux présentent également le point commun d'être recouvertes, pour une grande majorité de leurs territoires, de milieux naturels spécifiques très peu touchés par les activités humaines : la forêt amazonienne pour la première et l'inlandsis de l'Antarctique pour la seconde<ref name=gnr/>.
+
+La France dispose de .</ref>.
+
+
+
+ Climat 
+Fichier:France climats carte 2010.Carte des climats de France métropolitaine hors Corse en 2010.
+
+Le climat de la France métropolitaine est fortement influencé par l'anticyclone des Açores, mais également par le Gulf Stream comme le reste de l'Europe de l'Ouest<ref><ref group="b" name="p29-30"/>), des incendies et des inondations.
+
+On distingue usuellement le climat océanique strict très marqué à l'ouest<ref>[https://journals.openedition.org/cybergeo/23155]</ref> Il s'étend de la Flandre au Pays basque, sur une bande côtière de quelques dizaines de kilomètres (la limite est difficile à définir), plus étroite au nord et au sud, plus large en Bretagne qui est concernée en quasi-totalité par ce climat. Le climat océanique aquitain du sud-ouest est plus chaud car plus au sud,'<ref>Bulletin du Centre d’études et de recherche scientifiques, Volume 11, [https://books.google.fr/books?id=M9MZAQAAIAAJ&q=%22oc%C3%A9anique+aquitain%22&dq=%22oc%C3%A9anique+aquitain%22&lr=&cd=9 aperçu en ligne].</ref>. Le climat de la façade nord-ouest est océanique mais plus frais que le climat océanique aquitain ; l'intensité des vents d'vents d'ouest y est beaucoup plus forte. Le climat océanique dégradé de plaine situé au centre-nord, est parfois appelé « parisien » car il correspond approximativement au bassin parisien, pour lequel le climat océanique est plus faiblement altéré. Le climat semi-continental au nord-est et au centre-est (Alsace, plaines de Saône ou du moyen-Rhône, plaines dauphinoises, auvergnates ou savoyardes) est lui-même subdivisé et possède des caractéristiques encore plus modifiées par le voisinage des massifs montagneux. Un climat semi-continental méridional caractérisé par un climat chaud existe dans les plaines de la vallée du Rhône autour de Lyon ainsi que celles du Forez. La Limagne et la région autour de Clermont-Ferrand connaît le même climat par l'effet de foehn et une position géographique dans la moitié sud de la France. Le climat semi-continental oriental quant à lui est présent de la Bourgogne-Franche-Bourgogne jusqu'au Ardennes. Enfin le climat montagnard est présent, principalement en altitude dans les Alpes, les Pyrénées, le Massif central, les Vosges, le Jura et la montagne corse.
+
+Une grande partie de la France d'outre-mer est également soumise à des climats tropicaux (avec de fortes disparités)<ref group="b">.</ref> des Terres australes et antarctiques françaises.
+
+La température moyenne en France s'est élevée de </ref>.
+
+ Paysages et environnement 
+
+La France métropolitaine possède une grande variété de paysages, avec des plaines agricoles ou boisées, des chaînes de montagnes plus ou moins érodées, des littoraux diversifiés et des vallées mêlant ville et nature. La France d'outre-mer possède quant à elle une importante biodiversité, par exemple dans la forêt équatoriale guyanaise ou dans les lagons de Nouvelle-Calédonie<ref>.</ref>.
+
+<gallery mode="packed" heights="120">
+Cliffs etretat.Falaises d'Étretat, Normandie.
+Most beautiful villages of the world montsoreau 2.La Loire à Montsoreau, Val de Loire.
+Etang de Sologne.Les étangs et forêts de Sologne.
+Lac des Perches.Lac des Perches, massif des Vosges, Alsace.
+Châtenois 040.Châtenois (Bas-Châtenois, Alsace.
+Crocq pâturages.Pâturages, Creuse.
+Usson JPG01.Le village d'Usson (Puy-de-Usson, Massif central.
+Saint-Gervais-les-Bains - Mt-Blanc JPG01.Le massif alpin du Massif du Mont-Mont-Blanc.
+Bachambin.Torrent de haute montagne, Haute-Maurienne.
+Lavender field.Champ de lavande en Provence.
+04 Calanche Piana.Calanques de Piana, Corse.
+Sainte Anne Plage.La plage de Sainte-Anne, Guadeloupe.
+Forêt tropicale 1.Forêt tropicale amazonienne, Guyane.
+Kerguelen CookGlacier.Le glacier de Cook, îles Kerguelen.
+Roselière de Pauillac et carrelets sur l'estuaire de la Gironde, France.Estuaire de la Gironde en Médoc, Nouvelle-Aquitaine.
+</gallery>
+
+
+Cette diversité des paysages et des écosystèmes est menacée par la fragmentation écologique des milieux due à un dense réseau routier<ref name="transports & environnement">.</ref> ainsi que le caractère inondable de certains secteurs. Quant aux infrastructures de transport, notamment routières, elles exposent leurs riverains à une pollution atmosphérique, sonore et visuelle importante<ref name="transports & environnement"/>.
+
+Grâce à une politique de limitation de l'usage des produits pétroliers et à l'importance de l'énergie nucléaire, les émissions françaises de CO</ref>. Ce chiffre de 1% ne prend pas en compte l'ensemble de la pression exercée par le pays sur le climat. En effet, l'empreinte carbone de la France est environ 1,8 fois plus importante que ses émissions territoriales<ref>{{langue=auteur1=Le service de la donnée
+titre=Chiffres clés du climat – France,passage=lieu=|éditeur=|date=pages totales=isbn=|lire en ligne=https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2019-11/datalab-62-chiffres-cles-du-climat-france-europe-monde-edition2020-novembre2019_0.pdf}}</ref>.
+
+Avec une empreinte écologique par habitant de .</ref>.
+
+La production de plastique en France a augmenté de 7,8 % entre 2016 et 2017<ref>https://lvsl.fr/la-production-de-plastique-va-augmenter-de-40-dans-les-10-ans-qui-viennent-entretien-avec-jacques-exbalin/</ref> Chaque année, .</ref>. Les rivières sont également atteintes par la pollution aux microplastiques<ref>https://france3-regions.francetvinfo.fr/normandie/surfrider-alerte-pollution-aux-microplastiques-nos-riviere-1670913.html</ref>.
+
+Une commission d’enquête parlementaire indique que la pollution de l'air représente un coût annuel de .</ref>
+ Préservation de l'environnement 
+Les pouvoirs publics tentent depuis plusieurs décennies de répondre à ces défis environnementaux. Aux réserves naturelles et aux parcs nationaux se sont ajoutés depuis 1967 les parcs naturels régionaux<ref><ref name="p37" group="b" />.
+
+Le réseau Natura 2000 rassemble des sites naturels ou semi-naturels de l'Union européenne ayant une grande valeur patrimoniale, par la faune et la flore exceptionnelles qu'ils contiennent. En décembre 2018, le réseau Natura 2000 compte en France  marins, comprenant :
+* 402 zones de protection spéciale (ZPS) pour les oiseaux ;
+*  zones spéciales de conservation (ZSC) pour les habitats et les espèces.
+La superficie totale est de .</ref>.
+
+ Répartition spatiale des hommes et des activités 
+
+
+Fichier:Carte démographique de la France.Carte synthétique de la répartition de la population en France métropolitaine en 2010. Sont indiquées les densités de population par département, les 18 aires urbaines de plus de  habitants, la ligne Le Havre-Marseille et les limites approximatives de la « diagonale des faibles densités ».
+
+
+
+
+
+
+
+|alt=Ici figure une carte démographique de la France, montrant les densités de population par département et faisant figurer la « diagonale du vide » et la ligne Le Havre-Marseille.
+Fichier:France densité 2009.Densité de population par km dans la partie européenne de la France en 2009.
+
+La France métropolitaine est marquée par des déséquilibres spatiaux multiples. D'une part, elle possède l'originalité d'avoir une capitale six fois plus peuplée que la deuxième aire urbaine du pays<ref group=N>L'aire urbaine parisienne comptait en 2010 .</ref>.
+
+Après un long exode rural au  habitants).
+
+{| class="wikitable sortable centre alternance" style="text-align:right"
+|-
+! scope= Ville
+! scope= Aire urbaine<ref>[https://insee.fr/fr/statistiques/4277602?sommaire=4318291 Insee, Tableaux de l'économie française. Édition 2020. « Villes et communes de France »], consulté le 28 février 2020.</ref>
+! scope= Pôle urbain<ref name="insee 3677855">[https://insee.fr/fr/statistiques/3677855] Résultats du recensement de la population de 2016.</ref>
+! scope= Commune<ref>[https://insee.fr/fr/statistiques/zones/4269674?debut=0 Insee, Populations légales 2017 des communes de France hors Mayotte], consulté le 28 février 2020.</ref>
+|-
+! scope= Paris
+| 
+| 
+| 
+|-
+! scope= Lyon
+| 
+| 
+| 
+|-
+! scope= Marseille et Aix-en-Provence
+| 
+| 
+| 
+|-
+! scope= Toulouse
+| 
+| 
+| 
+|-
+! scope= Bordeaux
+| 
+| 
+| 
+|-
+! scope= Lille
+| 
+| 
+| 
+|-
+! scope= Nice
+| 
+| 
+| 
+|-
+! scope= Nantes
+| 
+| 
+| 
+|-
+! scope= Strasbourg
+| 
+| 
+| 
+|-
+! scope= Rennes
+| 
+| 
+| 
+|-
+! scope= Grenoble
+| 
+| 
+| 
+|-
+! scope= Rouen
+| 
+| 
+| 
+|-
+! scope= Toulon
+| 
+| 
+| 
+|-
+! scope= Montpellier
+| 
+| 
+| 
+|-
+! scope= Douai et Lens (Pas-de-Lens
+| 
+| 
+| 
+|-
+! scope= Avignon
+| 
+| 
+| 
+|-
+! scope= Saint-Étienne
+| 
+| 
+| 
+|}
+
+ Axes de communication et transports 
+
+
+En raison de sa situation géographique qui forme un carrefour européen, la France est un pays de passage<ref group="b" name="p155">.</ref>.
+
+Fichier:LGV 1 By JM Rosier.Un TGV Duplex sur la LGV Méditerranée.|alt=Photographie d’un TGV Duplex.
+Le transport routier est le principal mode de transport utilisé en France, en 2014, il représentait 83 % des trafics voyageurs et 85 % des trafics marchandises<ref group=N>Ces valeurs concernent l’année 2014, et correspondent à la part du transport routier dans le total des transports de voyageurs et marchandises cette année-là, respectivement en voyageurs-km et en tonnes-km.</ref>.</ref>.
+
+Le réseau ferré national, quant à lui, date pour l’essentiel du milieu et de la fin du .</ref>.
+
+Quant au transport aérien, il est particulièrement centralisé : les deux aéroports parisiens <ref group=N>Airbus est issu de la coopération de la France avec ses voisins allemand, espagnol et britannique.</ref>) d’Europe, deuxième du monde.
+
+D’autres modes de transport sont utilisés en France, mais ils sont plus marginaux. Le trafic fluvial assure une part négligeable du trafic voyageurs et très secondaire du trafic marchandises, principalement en raison de l’inadaptation d’une grande partie du réseau au trafic moderne<ref name="transports 2008">.</ref> ; le port de Marseille, au premier rang français par son trafic, et un des premiers terminaux d'Europe pour les croisières, est le deuxième port de la Méditerranée, derrière Algésiras (Espagne)<ref name="ports"/>.
+
+Le mode de transport par bicyclette connaît aujourd’hui un regain d'intérêt, notamment en réponse à la préoccupation environnementale des Français, grâce au développement des réseaux urbains de pistes cyclables et à la mise en place de vélos en libre-service dans plusieurs villes du pays<ref group="i">. 
+
+
+ Histoire 
+
+Fichier:Frontiere francaise 985 1947 small.Évolution du territoire de la France métropolitaine, de 985 à 1947.|alt=Carte animée montrant l’évolution du territoire français métropolitain de 985 à 1947. Après s’être petit à petit accru au Moyen Âge et aux Temps Modernes, la France a connu sa dernière extension territoriale majeure et définitive en 1860, avec l’acquisition de Nice et de la Savoie.
+
+La France métropolitaine actuelle occupe la plus grande partie de l'ancienne Gaule celtique, conquise par Jules César au . La France est un État dont l’unification est ancienne, et fut l’un des premiers pays de l’époque moderne à tenter une expérience démocratique.
+
+ Préhistoire, protohistoire et Antiquité 
+Fichier:Lascaux2.alt=Lascaux cave paintings:Un des chevaux de Lascaux, Dordogne, environ 18.000 av. J.-C.
+
+
+La présence humaine sur le territoire de la France actuelle remonte au Paléolithique inférieur ; les traces les plus anciennes de vie humaine datent d’il y a environ  environ).
+
+Vers -.</ref>.
+
+En -600, des Grecs originaires de la ville de Phocée fondent la ville de Marseille, au bord de la Méditerranée<ref group="e">.</ref>. 
+
+Contrairement à la vision réductrice qu'en donne César dans sa Guerre des Gaules, ce vaste espace géographique est occupé par une mosaïque de plus d'une centaine de peuples dont l'organisation est très diverse mais qui ont tous un point commun : </ref>.
+
+À partir de -125, le sud des Gaules (57 peuples gaulois) est progressivement conquis par la République romaine à la suite de la victoire de Rome sur les Allobroges et les Arvernes. Rome y fonde les villes d’Aix-en-Provence, Toulouse et Narbonne<ref group="e" name="ge4142">.</ref>. En -58, Jules César prend prétexte d'une demande d'aide des Éduens pour se lancer à la conquête du reste de la Gaule. D'abord battu à Gergovie, il vainc à Siège d'Alésia.
+
+Les riches territoires fiscaux nouvellement conquis sont répartis par l'empereur de Rome Auguste en neuf provinces, dont quatre correspondent approximativement à l'actuel territoire métropolitain français : la Narbonnaise au sud, l’Aquitaine au sud-ouest, la Lyonnaise au centre et à l'ouest et la Belgique au nord<ref group="e">.</ref> qui connait alors la paix pendant environ deux siècles.
+
+Au .</ref>.
+
+Pour ce qui concerne la France d'outre-mer pendant ce temps : la Guyane est occupée par des peuples vivant de chasse et de cueillette ; Saint-Pierre-et-Miquelon reçoit des visites de paléoesquimaux<ref> ; les autres territoires d'outre-mer semblent inoccupés durant cette période.
+
+ Naissance, crises et transformations du royaume de France au Moyen Âge 
+
+
+Fichier:Franks expansion.alt=Expansion des Francs de 481 à 843/870.
+Fichier:Chlodwigs taufe.Le baptême de Clovis, représenté dans la Sainte-Chapelle à Paris (anonyme).|alt=Une représentation artistique du baptême de Clovis, dans la Sainte-Chapelle à Paris.
+Fichier:Chateau de Montsoreau Museum of contemporary art Loire Valley France.Le Château de Montsoreau (circa 1450) dans le val de Loire, construit sur ordre de Charles VII, annonce la renaissance en France.|alt=Photographie montrant le château de Montsoreau et la Loire
+La conversion au christianisme du chef franc Clovis, baptisé à Reims le 24 décembre 496 par l'évêque Saint Rémi, fait de lui l’allié de l’Église et lui permet de conquérir l’essentiel de la Gaule au tournant des .</ref>.
+
+Pépin le Bref et son fils Charlemagne agrandissent considérablement le royaume des Francs, qui s’étend à la fin du .</ref>.
+
+En 987, Hugues Capet est élu roi par ses pairs, c'est-à-dire les nobles du royaume<ref group=N>Depuis la fin du .</ref>.
+
+Le royaume capétien atteint sa première apogée au .</ref>.
+
+Le </ref>.
+
+ De la Renaissance à la monarchie absolue () 
+
+
+Fichier:New France-(1534- 1763-1803).Territoire du Premier empire colonial français en Amérique appelé la Nouvelle-France (1534-1763).
+Fichier:Louis XIV of France.alt=Tableau en couleur d'un homme à la chevelure longue et noire, posant debout, en tenue royale, bleue et blanche.|Louis XIV, le « Roi-Soleil », était le monarque absolu de la France et en a fait la première puissance européenne.
+À partir de 1494, les souverains français mènent de Guerres d'multiples guerres en Italie, puis contre l’empereur Charles Quint<ref>.</ref>.
+
+En 1539, l’ordonnance de Villers-Cotterêts fait du français la langue administrative et judiciaire du royaume<ref group="e">.</ref>.
+
+Louis XIII (1610-1643) et ses ministres Richelieu et Mazarin doivent faire face à l’opposition de nobles soucieux de reprendre leurs anciens pouvoirs<ref group="e">.</ref>.
+
+Louis XV (1715-1774), arrière-petit-fils et successeur de Louis XIV, mène lui aussi plusieurs guerres, aux résultats contrastés<ref group="e">.</ref>.
+
+
+ Révolutions, républiques et empires (1789-1914) 
+
+Fichier:Prise de la Bastille.La prise de la Bastille, le , est l'un des premiers faits marquants de la Révolution française.
+Fichier:France Departement 1801.La partie européenne du territoire de la Première République découpé en départements.
+Les délégués envoyés aux États généraux qui s’ouvrent le .</ref>.
+
+Image:Napoleon in 1806.Napoléon, empereur des Français, a construit avec sa Grande Armée un vaste empire à travers l'Europe. Il a aidé à répandre les idéaux révolutionnaires français et ses réformes juridiques ont eu une influence majeure dans le monde entier.
+
+Le .</ref>.
+
+La France entame alors une seconde expérience de monarchie constitutionnelle, pendant laquelle les rois Louis XVIII (1814-1824) et surtout Charles X (1824-1830) remettent en question une partie des acquis de la Révolution<ref group="e">.</ref>.
+
+En février 1848, une nouvelle révolution éclate, dont les objectifs ne sont plus seulement politiques mais aussi sociaux<ref group="e">.</ref>.
+
+Fichier:La france en 1920.Territoire du second empire colonial français (1815 à 1958, début des indépendances).
+Si les premières années du Second Empire sont celles d’un régime autoritaire, Napoléon III entame un tournant libéral en 1860, qui n’empêche pas une montée des oppositions politiques, tandis que le développement industriel et ferroviaire s’accélère<ref group="e">.</ref>. La défaite française suscite en outre l'épisode dramatique de la Commune de Paris, écrasée en mai 1871 par les troupes gouvernementales.
+
+Malgré sa naissance chaotique, la Troisième République est le plus long des régimes politiques qu’a connu la France depuis 1789<ref group="e">.</ref>.
+
+ La France dans les deux guerres mondiales (1914-1945) 
+
+Fichier:France map Lambert-93 with regions and departments-occupation-fr.Durant la Seconde Guerre mondiale, le territoire continental ou la France métropolitaine était divisé entre une « zone occupée » au nord et à l'ouest et une « zone libre » au sud, auxquelles s’ajoutaient d’autres zones de taille plus restreinte au statut spécial.|alt=Une carte représentant la division du territoire français, durant la Seconde Guerre mondiale, entre une zone libre correspondant à un large tiers sud-est du pays et une zone occupée correspondant au nord du pays et au littoral atlantique.
+Fichier:El 114 de infantería, en París, el 14 de julio de 1917, León Gimpel.alt=Autochrome of the 114 Infantery regiment in París, on 14 July 1917,Les poilus français ont subi le plus grand nombre de pertes parmi les Alliés lors de la Première Guerre mondiale.
+Par le jeu des alliances, la France entre en guerre au début du mois d’août 1914 contre l’Allemagne, aux côtés du Royaume-Uni et de l’Empire russe<ref group="e">.</ref>. Outre le retour de l’Alsace-Lorraine, la France recevra une partie des réparations allemandes prévues par le traité de Versailles tout en obtenant des garanties de sécurité. Néanmoins, celles-ci ne suffisent pas à éviter en 1940 une nouvelle invasion par l'Allemagne à la suite de la reconstruction de l'armée allemande et de la remilitarisation de la rive gauche du Rhin.
+Fichier:Clemenceau.Georges Clemenceau est célèbre tant pour sa politique intérieure (notamment la création des Brigades du Tigre) que pour son rôle dans la Première Guerre mondiale. Il fait preuve d'une grande détermination : 
+Après quelques années de reconstruction laborieuse, Histoire des bourses de valeurs#Ugine et Citroën :marquée par un effort d'immigration et de productivité pour pallier la pénurie de main-d'œuvre dans les mines, l'acier ou l'automobile, la France peine à retrouver sa vigueur économique d’avant-guerre<ref group="e">.</ref>.
+
+Après huit mois sans combats (la « drôle de guerre »), la Wehrmacht envahit le 10 mai 1940 le nord-est de la France et le maréchal Philippe Pétain demande l’armistice le 22 juin<ref group="e"> et les blessures psychologiques et politiques dues à la débâcle de 1940, à la collaboration puis aux règlements de compte lors de l'épuration sont longues à cicatriser<ref group="e" name="h344-345"/>.
+
+ La Libération, gaullisme et crise politique (1945-1968) 
+
+Fichier:French Empire evolution.Carte animée de la croissance et du déclin de l'empire colonial français.
+Fichier:De Gaulle-OWI.alt=Charles de Gaulle a pris une part active à de nombreux événements majeurs du  : combattant lors de la Première Guerre mondiale, chef des Français libres pendant la Seconde Guerre mondiale, président de la République, il a facilité la décolonisation, a maintenu la France parmi les puissances majeures et a surmonté la révolte de Mai 68.
+Une période de renouveau commence alors pour la France<ref group="e" name="h345"></ref> ».
+
+Le .</ref>.
+
+ De Mai 68 à aujourd'hui
+En 1974, s’ouvre l’ère post-gaulliste avec l’élection d’un président issu du centre-droit : Valéry Giscard d'Valéry Giscard d’Estaing<ref group="e">.</ref>.
+
+Fichier:1 euro face commune 2.La France met l'euro en circulation le .</ref> ». Le gouvernement « d’ouverture » que François Fillon forme avec des personnalités issues non seulement de la droite, mais aussi du centre et de la gauche<ref name="rupture et ouverture sarkozyste"/>, doit cependant faire face à la crise économique venue en 2008-2009 des États-Unis<ref>[http://citoyen.eu.org/crise/economique Collection de textes sur la crise économique de 2008-2009].</ref>.
+
+En 2012, le socialiste François Hollande est élu président, après être devenu candidat de son parti à l'issue des premières primaires ouvertes de l'histoire de la République. Avec une majorité socialiste dans les deux chambres du Parlement pour la première fois sous la ).
+
+Depuis 1945, la France a été touchée par plusieurs vagues d'attentats terroristes, en particulier par le terrorisme islamiste depuis 1995, qui mène la même année à la création du plan Vigipirate, actualisé en 2000, en 2002, en 2003 et en 2006. Après une série d'attentats particulièrement meurtriers en 2015, le président François Hollande décrète l'État d'état d'urgence, qui est prolongé jusqu'en novembre 2017.
+
+ Politique et administration 
+
+
+La France est une démocratie libérale, dont le gouvernement a la forme d’une République. Les fondements de l’organisation politique et administrative actuelle de la France ont été fixés en 1958 par la Constitution de la Cinquième République. Selon l’article premier de la Constitution, .
+
+ Organisation des pouvoirs 
+Fichier:Schema pouvoirs Ve republique France-vec-final form-ok.redresse=Organigramme des institutions de la Cinquième République.|alt=Un organigramme des institutions de la Cinquième République, reproduisant et enrichissant le fonctionnement décrit ci-dessus.
+
+L’organisation des pouvoirs en France est définie par la Constitution de 1958, amendée à plusieurs reprises<ref name="p13" group="k">.
+
+Le pouvoir législatif appartient au Parlement, formé de deux chambres, l’Assemblée nationale et le Sénat<ref name="p21" group="k">.</ref>.
+
+Le pouvoir exécutif appartient en premier lieu au président de la République<ref group="k">.</ref>. Le Gouvernement peut être renversé par une motion de censure adoptée par l’Assemblée nationale<ref name="p23" group="k"/>. Lorsque la majorité parlementaire et le président n’appartiennent pas au même parti politique, on parle alors de cohabitation<ref name="p21" group="k"/>.
+
+Le pouvoir judiciaire, quant à lui, est séparé des deux autres, bien que le président de la République dispose d’un droit de grâce<ref>.</ref>.
+
+La conformité des lois à la Constitution, la régularité des scrutins et, plus largement, le respect des institutions sont contrôlés par le Conseil constitutionnel<ref group="k">.</ref>.
+
+ Gouvernement 
+
+{| class="wikitable alternance centre"
++ 
+-
+ ! scope="col" Fonction
+ ! scope="col" Titulaire
+-
+ ! scope="row" Garde des Sceaux, ministre de la Justice
+ Nicole Belloubet
+-
+ ! scope="row" Ministre de l'Europe et des Affaires étrangères
+ Jean-Yves Le Drian
+-
+ ! scope="row" Ministre des Armées
+ Florence Parly 
+-
+ ! scope="row" Ministre de la Transition écologique et solidaire 
+Élisabeth Borne
+-
+ ! scope="row" Ministre des Solidarités et de la Santé
+ Olivier Véran
+-
+ ! scope="row"Ministre de l'Économie et des Finances
+ Bruno Le Maire 
+-
+ ! scope="row" Ministre du Travail
+ Muriel Pénicaud
+-
+ ! scope="row" Ministre de l'Éducation nationale et de la Jeunesse
+ Jean-Michel Blanquer
+-
+ ! scope="row" Ministre de l'Action et des Comptes publics
+ Gérald Darmanin
+-
+ ! scope="row" Ministre de l'Intérieur
+ Christophe Castaner
+-
+ ! scope="row" Ministre de l'Enseignement supérieur, de la Recherche et de l'Innovation
+ Frédérique Vidal
+-
+ ! scope="row"Ministre de la Cohésion des territoires et des Relations avec les collectivités territoriales
+Jacqueline Gourault
+-
+ ! scope="row" Ministre des Outre-mer
+Annick Girardin
+-
+ ! scope="row" Ministre de la Culture
+ Franck Riester
+-
+ ! scope="row" Ministre de l'Agriculture et de l'Alimentation
+ Didier Guillaume
+-
+ ! scope="row" Ministre des Sports
+Roxana Maracineanu
+}
+
+
+
+ Découpage territorial et décentralisation 
+
+Fichier:Regions France 2016.redresse=1.Carte des 18 régions françaises, à compter du .
+
+On distingue d'une part la France métropolitaine et les Région d'outre-régions d'outre-mer, qui sont administrées dans le cadre des règles générales, et d'autre part la Nouvelle-Calédonie, les Collectivité d'outre-collectivités d'outre-mer et les Territoire d'outre-territoires d'outre-mer, qui disposent de statuts différents. La France métropolitaine et les région d'outre-régions d'outre-mer sont divisées en de multiples collectivités territoriales réparties sur trois niveaux : la commune, le département et la région. Ces collectivités territoriales sont en même temps des circonscriptions administratives dans lesquelles l’État intervient au travers de ses services déconcentrés. Les communes, au nombre de .</ref>. À ces collectivités territoriales s’ajoutent d’autres divisions territoriales, telles que le canton, l’arrondissement ou plus récemment le pays mais elles ne possèdent pas de dirigeants élus<ref group=N>Il faut également ajouter à cette liste le cas de certaines entités au statut particulier. La Collectivité territoriale de Corse possède un statut à part, distinct de celui des régions. Quant aux trois plus grandes communes du pays (Paris, Marseille et Lyon), elles sont divisées en arrondissements municipaux, au sein desquels un conseil d’arrondissement est élu, mais ce conseil d’arrondissement ne possède que des pouvoirs limités et généralement subordonnés à l’accord du conseil municipal.</ref>.
+
+Comparée à ses voisins européens, la France a longtemps été marquée par une forte centralisation politique, les collectivités territoriales disposant de pouvoirs relativement faibles<ref group="k" name="p84"/>. Néanmoins, cette situation a beaucoup évolué depuis le début des années 1980, d’abord en 1982 et 1983 avec les lois Defferre (appelées a posteriori l'acte I de la décentralisation), puis entre 2002 et 2004 sous le Gouvernement Jean-gouvernement Raffarin (acte II)<ref></ref>.
+
+ France d’outre-mer 
+
+Fichier:Overseasfrancemap.redresse=1.France métropolitaine et d’outre-mer (bleu).|alt=Une carte de la France d’outre-mer, montrant que la France est présente dans tous les océans.
+
+Les territoires français situés en dehors de l’Europe géographique, qui correspondent à d’anciennes colonies restées françaises, sont quant à eux soumis à des régimes administratifs et juridiques très différents les uns des autres<ref name="outre-mer"/>. Ces territoires, dont la situation économique est globalement moins bonne que celle de la métropole, bénéficient de nombreuses aides de l’État<ref>.</ref>.
+
+La Guadeloupe, la Guyane, la Martinique, La Réunion et, depuis 2011, Mayotte<ref group=N name="mayotte">En 2009, les habitants de Mayotte se sont prononcés par référendum pour la départementalisation de leur collectivité, dont le statut était déjà proche de celui des départements.</ref> sont des Département et région d'outre-départements et régions d'outre-mer. Ces cinq territoires se distinguent du reste de la France d'outre-mer par leur statut en tout point similaire à celui des régions métropolitaines, bien que les lois françaises puissent prévoir des dispositions spécifiques les concernant<ref>.</ref>, qui s'y applique de plein droit.
+
+En revanche, les autres territoires français d’outre-mer, à l’exception des collectivités de Saint-Saint-Barthélemy et de Saint-Saint-Martin, Pays et territoire d'outre-ne font pas partie de l’Union européenne, bien que leurs habitants disposent de la citoyenneté européenne<ref>.</ref>.
+
+ Tendances politiques, partis et élections 
+
+Fichier:Evolution du paysage politique 1958-2017.Évolution du paysage politique français de 1958 à nos jours. Extrême-droite (en bleu foncé) ; droite (en bleu) ; centre-droit (en bleu-clair) ; centre et centre-gauche (en jaune) ; écologistes (en vert) ; gauche (en rose) ; extrême-gauche à gauche radicale (en rouge).
+{{Infobox Élection
+ entete               = 
+ pays                 = 
+ variante             = 
+ blason               = 
+ date élection        = )</small>
+ endispute            = 
+ fond                 = 
+ carte sous-titre     = 
+ diagramme titre      = Assemblée nationale élue<br><small>Par groupes</small>
+ diagramme            = Diagramme assemblée nationale 2017.svg
+ taille diagramme     = 
+ légende1              = Liste au   (modifications ultérieures)
+
+
+
+
+
+
+
+
+
+
+}}Le système politique français, et notamment le suffrage uninominal majoritaire qui prévaut lors des élections présidentielles et législatives, tend à une bipolarisation ou à une tripolarisation de la vie politique<ref group="n" name="n215-216">.</ref>.
+
+Depuis les années 1990, les deux principaux partis français sont Les Républicains (LR) <ref group="n">Les partis indiqués ici sont ceux dont l’analyse est détaillée dans les pages 217 à 224.</ref>, le Parti communiste français (PCF, gauche communiste) et La France insoumise (gauche radicale et écosocialiste).
+
+Les élections présidentielle puis législatives de 2017 ont toutefois abouti à une recomposition de l'offre politique française, marquée par une élimination dès le premier tour des candidats des deux partis ayant occupé la présidence de la République auparavant, et l'élection d'un jeune candidat entré en politique active sous la présidence de François Hollande sans être membre actif du PS, Emmanuel Macron<ref>[https://www.lemonde.fr/idees/article/2017/06/13/en-quelques-semaines-macron-a-chamboule-le-systeme-politique-comme-jamais-depuis-1958_5143631_3232.html]</ref>. Le mouvement créé par ce dernier sur une ligne centriste, europhile et sociale-libérale, et réunissant des personnalités du centre-gauche, du centre, du centre-droit et de la société civile, La République en marche, obtient ensuite la majorité à l'Assemblée nationale. Cette formation reste toutefois encore peu représentée au Sénat et dans les assemblées des collectivités locales.
+
+Des mouvements indépendantistes, nationalistes périphériques ou régionalistes existent dans plusieurs territoires métropolitains ou ultramarins, mais peu d'entre eux ont acquis une importance effective (par le biais d'une représentation parlementaire ou la participation aux exécutifs locaux), par exemple : l'Union démocratique bretonne (UDB, gauche à centre-gauche socialiste et social-démocrate, régionaliste et autonomiste) et Pour la Bretagne ! (gauche écologiste, socialiste et régionaliste) en Bretagne ; la coalition Pè a Corsica (nationaliste, unissant des autonomistes et des indépendantistes) en Corse ; le Partit occitan (POC, gauche écologiste, occitaniste et autonomiste) dans le Midi ; le Mouvement indépendantiste martiniquais (MIM, gauche indépendantiste et régionaliste), le Parti pour la libération de la Martinique (PALIMA, extrême-gauche indépendantiste), le Parti progressiste martiniquais (PPM, gauche socialiste et autonomiste) et le Rassemblement démocratique pour la Martinique (RDM, centre-gauche social-démocrate autonomiste) en Martinique ; le Front de libération nationale kanak et socialiste (FLNKS, constitué lui-même de plusieurs partis, nationaliste kanak, indépendantiste et socialiste mélanésien) en Nouvelle-Calédonie ; le Tavini huiraatira (ou simplement Tavini, gauche à centre-gauche indépendantiste) en Polynésie française.
+
+ Finances publiques 
+En France, les prélèvements obligatoires représentaient 46,2 % du PIB en 2017<ref name=":0">.</ref>.
+
+Malgré le taux élevé des prélèvements obligatoires, les dépenses publiques les dépassent nettement, totalisant 56,8 % du PIB en 2015<ref name=":13">.</ref>.
+
+La dette publique de la France s'établit à 98,4 % du PIB à la fin de l'année 2018, soit .</ref>, ainsi que les critères du Pacte budgétaire européen de 2012 qui limite le déficit structurel à 0,5 % du PIB pour l'objectif budgétaire à moyen terme.
+
+
+Fichier:Prélèvements obligatoires en France en 2007.redresse=Répartition des prélèvements obligatoires et des bénéficiaires institutionnels en 2007 (sources<ref>* .</ref> et précisions<ref group=N>Le diagramme de gauche représente les principaux impôts en pourcentage des recettes fiscales de l’État en 2007. Le diagramme de droite représente la part du PIB français revenant aux administrations publiques et de sécurité sociale après prélèvements obligatoires et transferts. IR = Impôt sur le revenu des personnes physiques ; CSG = Contribution sociale généralisée ; IS = Impôt sur les sociétés ; TVA = Taxe sur la valeur ajoutée ; TIPP = Taxe intérieure sur les produits pétroliers.</ref>).|alt=Ici sont visibles deux diagrammes : le premier montre la répartition des recettes fiscales de l’État par impôt et permet d’observer la prépondérance de la Taxe sur la valeur ajoutée, de la Contribution sociale généralisée, de l’Impôt sur le revenu des personnes physiques et de l’Impôt sur les sociétés ; le deuxième permet d’observer le poids des prélèvements obligatoires dans le PIB, et leur répartition, principalement au bénéfice de la Sécurité sociale et de l’État.
+
+Jusqu'en 2012, les trois principales agences de notation financière attribuaient toutes à la France leur notation maximale. Cependant, à cause de la dégradation de l'état des finances publiques françaises à la suite de la crise économique de 2007-2008, elles revoient leur notation à la baisse. Le 19 novembre 2012, Moody's rabaisse sa note de Aaa à Aa1, puis le 18 novembre 2015, de Aa1 à Aa2. Standard & Poor's baisse sa note de AAA à AA+ le 13 janvier 2012, puis de AA+ à AA le 8 novembre 2013. Enfin, l'agence Fitch revoie sa note de AAA à AA+ le 12 juillet 2013, puis de AA+ à AA le 12 décembre 2014<ref>.</ref>.
+
+ Défense 
+
+Fichier:Soldats français à Gao.alt=Soldats français engagés dans l’opération Serval, en 2013.|Forces françaises engagées à Gao (Mali) dans le cadre de l'opération Serval, en 2013.
+Fichier:Temeraire1048.Sous-marin nucléaire lanceur d'engins français, Le Téméraire.
+{| class="wikitable centre alternance" style="text-align:center"
++ Principaux organismes
+-
+ ! Logo 
+ ! scope="col"Fichier:Logo Ministère des Armées (2020).alt=|70x70px
+ ! scope="col" Fichier:Emblème de l'État-Major des armées (EMA).alt=|70px
+ ! scope="col" Fichier:Logo of the French Army (Armee de Terre).70px
+ ! scope="col" Fichier:Logo of the French Navy (Marine Nationale).70px
+ ! scope="col" Fichier:Logo de la Direction générale de l'Armement.70px
+ ! scope="col" Fichier:Logo of the French Air Force (Armee de l'Air).70px
+ ! scope="col" Fichier:Gendarmerie nationale logo.70px
+-
+ ! scope="row" Forces
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+ ! scope="row" Sites officiels
+ <ref>Ministère de la Défense, [https://www.defense.gouv.fr/sga SGA].</ref></center>
+ <ref>Ministère de la Défense, [https://www.defense.gouv.fr/ema EMA].</ref>
+ <ref>Ministère de la Défense, [https://www.defense.gouv.fr/terre Armée de Terre].</ref>
+ <ref>Ministère de la Défense, [https://www.defense.gouv.fr/marine Marine nationale].</ref>
+ <ref>Ministère de la Défense, [https://www.defense.gouv.fr/dga DGA].</ref>
+ <ref>Ministère de la Défense, [https://www.defense.gouv.fr/air Armée de l'Air].</ref>
+ <ref>Ministère de la Défense, [https://www.defense.gouv.fr/gendarmerie Gendarmerie Nationale].</ref>
+}
+
+Fichier:Ministère de la Défense à Balard, parcelle Valin centre (08-2015).L'Hexagone Balard, siège du ministère de la Défense.
+La France a le cinquième budget de la Défense au monde, selon les données du SIPRI. Elle est la troisième puissance nucléaire militaire mondiale, l'un des cinq membres permanents du Conseil de sécurité des Nations unies et, à ce titre, juridiquement reconnue comme un des cinq « États dotés d'armes nucléaires » (EDAN) par le traité sur la non-prolifération des armes nucléaires<ref> d’euros).
+Les forces militaires sont divisées en quatre armées principales : l’Armée de terre, la Marine nationale, l’Armée de l'Armée de l’air et la Gendarmerie nationale<ref name="effectifs armées">.</ref>.
+Depuis 1996, l’Armée est devenue professionnelle et le service militaire obligatoire a été remplacé par une Journée défense et citoyenneté mixte<ref>.</ref>.
+
+ Appartenance à des organisations internationales 
+
+Fichier:Bannière Drapeaux UE-28.redresse=1.La France, États membres de l'État membre de l'Union européenne.
+Fichier:Schema pouvoirs Ve république France depuis le traité de Lisbonne.redresse=2.Schéma des pouvoirs exécutif et législatifs français depuis le traité de Lisbonne.
+
+La France est un des cinq membres permanents du Conseil de sécurité des Nations unies et participe à la vie de multiples organisations internationales, comme l’Organisation du traité de l'Atlantique nord (OTAN), l’Organisation mondiale du commerce (OMC), l’Organisation de coopération et de développement économiques (OCDE), le Conseil de l'Europe, le G8, le G20 ou l’Organisation internationale de la francophonie.
+
+Depuis 1945, quelle que soit la majorité au pouvoir, l’Europe est un axe majeur de la politique étrangère française. Deux des sept Pères de l'Pères de l’Europe .</ref> à celui par référendum français sur le traité établissant une constitution pour l'référendum du traité établissant une constitution pour l’Europe en 2005<ref name="constitution européenne"/>, les coups d’arrêt français à la Histoire de l'construction européenne ont été nombreux.
+
+Depuis le Traité sur l'traité de Maastricht en 1992, les domaines dans lesquels l’Union européenne a compétence exclusive sont de plus en plus nombreux<ref group="k">.</ref>, elle fait partie des pays contributeurs nets au budget de l'Union européenne<ref>[http://www.vie-publique.fr/decouverte-institutions/union-europeenne/action/financement/comment-france-participe-t-elle-au-financement-union-europeenne.html Comment la France participe-t-elle au financement de l'Union Européenne], sur le site vie-publique.fr.</ref>.
+
+ Politique étrangère et diplomatie 
+
+Depuis la présidence du général de Gaulle (1958-1969), la politique étrangère de la France est caractérisée par une volonté d’indépendance, notamment vis-à-vis des États-Unis<ref name="États-Unis"/>, ce qui s’est traduit par la mise au point par la France d’armes nucléaires et par le retrait de la France du commandement intégré de l’Organisation du traité de l'OTAN de 1966 à 2009<ref name="États-Unis">.</ref>.
+
+Le réseau des représentations diplomatiques de la France est le troisième du monde<ref name="ambassades"/>, avec actuellement 156 ambassades et 97 postes consulaires répartis sur les cinq continents<ref name="ambassades">.</ref>.
+
+La France aide les pays en voie de développement, notamment d’Afrique<ref group=N>En 2008, 41 des aides et 49 % du personnel à l’étranger de l’Agence française de développement concernaient l’Afrique subsaharienne. Parmi les sept principaux États bénéficiaires des fonds de l’AFD (Afrique du Sud, Chine, Sénégal, Maroc, Indonésie, Égypte et Tunisie), cinq sont africains et trois sont d’anciennes colonies françaises.</ref>.</ref>.
+
+ Symboles républicains 
+
+Fichier:Republique-francaise-logo.alt=Le logotype de la République française, adopté en 2020.|Le logotype de la République française, adopté en 2020. Emblème officiel mais non inscrit dans la constitution actuelle.
+Selon la constitution de la Cinquième République, la France possède plusieurs emblèmes, datant pour l’essentiel de la Révolution française. Le drapeau de la France est constitué de trois bandes verticales d’égale largeur, de couleurs bleu, blanc et rouge<ref name="emblèmes">.</ref>. L'hymne national est La Marseillaise<ref name="emblèmes"/>, un chant composé par Rouget de Lisle à Strasbourg pendant la Révolution française et parfois critiqué depuis pour la violence de son texte<ref>[http://www.ina.fr/art-et-culture/musique/video/CAC93049724/faut-il-changer-la-marseillaise.fr.html Faut-il changer la Marseillaise ?], Archives de l'Institut national de l'INA, journal télévisé France 3 (19/20) du 13 juillet 1990, sur ina.fr. Consulté le 27 février 2010].</ref>. Enfin, la République française a pour devise : Liberté, Égalité, Fraternité<ref name="emblèmes"/>.
+
+En outre, plusieurs symboles officieux existent pour représenter la France. En particulier, le buste de Marianne, une femme portant le bonnet phrygien, orne les mairies, et son visage est représenté sur les Marianne (timbre-timbres-poste et les faces françaises des centimes d’euro<ref group=N>La France possède de nombreux autres symboles officieux, notamment le coq gaulois, l’hexagone, les majuscules associées « RF » ou encore la figure de Jeanne d'Jeanne d’Arc.</ref>.</ref>.
+
+Depuis 1999, le Gouvernement français s’est doté d’un logotype rappelant le drapeau et la devise du pays, ainsi que la figure de Marianne. Ce logo figure en entête de tous les documents publiés par l'administration française. En 2020, l'ensemble de la charte graphique est modernisé dans le but de s'adapter aux nouveaux formats et aux nouveaux usages auxquels font face tous les professionnels de la communication<ref></ref>.
+
+ Population et société 
+
+
+ Démographie 
+
+Fichier:Évolution démographique comparée - France, Allemagne et Royaume-Uni.Évolution de la population de la France métropolitaine depuis 1801, comparée aux populations allemande et britannique (base 100 = 1800 ou 1801)<ref>
+* France : Jacques Dupaquier, Histoire de la population française, Paris, PUF, 1988, et 
+* Allemagne : [http://destatis.de destatis.de]
+* Royaume-Uni : [http://www.statistics.gov.uk/CCI/nscl.asp?ID=7589 ]
+.</ref>.
+
+D'après l’Institut national de la statistique et des études économiques (INSEE),  ou plus, hors collectivités d’outre-mer, et tous les cinq ans ailleurs<ref group="I">[http://www.insee.fr/fr/recensement/nouv_recens/vous/generalites.htm Le recensement de la population en bref].</ref>.
+
+Après avoir été relativement faible au .</ref>.
+
+En 2015, le taux de fécondité en France est d'environ 1,96 enfant par femme<ref>[http://www.insee.fr/fr/themes/tableau.asp?reg_id=0&ref_id=bilandemo3 Insee - Fécondité totale, fécondité selon le groupe d'âges de la mère et âge moyen des mères à l'accouchement jusqu'en 2015], consulté le .</ref>.
+
+D'après les projections de la population d'Eurostat, la France devrait compter .</ref>.
+
+En outre, la structure de la pyramide des âges évolue depuis le début du .</ref>.
+
+ Immigration, population étrangère et minorités visibles 
+
+
+En 2015, selon Pascal Blanchard, entre 12 et  de Français, soit entre 18 % et 22 % de la population totale, ont au moins un de leurs grands-parents né dans un territoire non européen<ref>[http://www.letelegramme.fr/bretagne/pascal-blanchard-l-etat-a-produit-un-apartheid-inconscient-14-03-2015-10557044.php L'État a produit un apartheid inconscient], Le Télégramme, 14 mars 2015.</ref>.
+Fichier:Évolution du nombre d'immigrés en France depuis 1921.Évolution du nombre d'immigrés en France depuis 1921.
+
+En 2010, la France accueille, selon la définition internationale des Nations unies (« personne née dans un autre pays que celui où elle réside »),  d’immigrés, soit 9,3 % de la population. 
+
+Depuis 1946, le nombre et la part d'immigrés en France augmente de manière continue : .</ref>.
+
+D'après Michèle Tribalat, il y aurait .</ref>.
+Fichier:French residency by country of nationality 1999.Pays d'origine de l'immigration en France (2006).
+
+Les immigrés perçoivent des revenus inférieurs d’un tiers en moyenne à ceux des non-immigrés<ref group="i" name="d81">.</ref>.
+
+Les populations d’origine immigrée, et celles qui appartiennent à des minorités visibles, sont parfois victimes de discriminations en France<ref group="i" name="d88-89"></ref>.
+
+ Famille, sexualité et égalité des sexes 
+
+La France est, en 2009, le troisième pays le plus fécond d’Europe après l’Islande et l’Irlande<ref> en France métropolitaine)<ref group="I" name="naissances">[http://www.insee.fr/fr/themes/detail.asp?reg_id=0&ref_id=bilan-demo&page=donnees-detaillees/bilan-demo/pop_age3c.htm Naissances et fécondité en France].</ref>.
+
+Les mutations qu’a connues la famille en France entre les années 1960 et les années 2000 sont aussi nombreuses que profondes. Les naissances sont dans la majeure partie planifiées, en raison de la légalisation de la contraception (en 1967) et de l'interruption volontaire de grossesse (en 1975). Plus de .</ref>.
+
+Autrefois assimilée à un crime, l'homosexualité a été peu à peu dépénalisée à partir de la fin du -404 du 17 mai 2013 ouvrant le mariage aux couples de personnes de même sexe], sur le site legifrance.gouv.fr du 17 mai 2013.</ref>. Parallèlement, l'homophobie devient un délit.
+
+La place des femmes dans la société française a beaucoup évolué au cours du </ref>.
+Fichier:Flag of La Francophonie.Le logo de la francophonie symbolisant les cinq continents
+
+ Langues 
+
+Le français est la langue très majoritairement parlée en France et est officiellement « la langue de la République » depuis la loi constitutionnelle de 1992. La France est le deuxième pays francophone le plus peuplé du monde après la république démocratique du Congo<ref name="OIF 2009"/>, mais le premier en termes de locuteurs. La France mène une politique linguistique active en faveur du français<ref>.</ref>. Celle-ci peut être visible entre autres au sein de l'Organisation internationale de la francophonie dont la France fait partie de même qu'au sein de l'Assemblée parlementaire de la francophonie dont la France fait aussi partie.
+
+Selon un rapport du linguiste Bernard Cerquiglini (1999), soixante-quinze langues autres que le français sont parlées en France, en comptant les langues régionales, les langues issues de l’immigration et les dialectes parlés dans l'France d'outre-Outre-mer<ref>.</ref>.
+
+ Religions 
+
+Fichier:Evolution récente des religions en France.La montée de l'irréligion en France suit un chemin inverse du déclin du catholicisme<ref>.</ref>.
+Depuis la Loi de séparation des Églises et de l'loi du 9 décembre 1905, les Églises sont strictement séparées en droit de l’État en France : .</ref>.
+
+La France est un pays de tradition catholique ancienne, et bien que le poids de l’Église ait paru diminuer, 51 %<ref>Sondage CSA 2006 publié en janvier 2007 dans Le Monde des religions.</ref> à 64 %<ref>Sondage Institut français d'IFOP 2007 pour La Vie, . Diverses Églises chrétiennes (Église néo-néo-apostolique, apostolique arménienne, Église de Jésus-Mormons, Témoins de Jéhovah, mennonites…) et d'autres religions (hindouisme, bouddhisme, bahaïsme, alévisme…) sont également présentes sur le territoire national, parfois depuis plusieurs siècles (mennonites d'Alsace).
+
+On dénombre en France .</ref>.
+
+Au-delà de ces valeurs, la perte d’influence des religions est un aspect majeur de l’évolution de la société française aux 
+
+Les Français ont une image plutôt négative de la religion en général. Selon un sondage Ipsos publié en 2017, 61 % des Français pensent que la religion cause plus de tort que de bien et seulement 16 % des Français pensent que les personnes croyantes font de meilleurs citoyens<ref>.</ref>.
+
+ Éducation 
+
+Fichier:Enseignement supérieur français.Organisation de l'enseignement supérieur français.
+Fichier:Enseign France-Secondaire-2009-vector.Organisation de l'enseignement secondaire français.
+
+En France, l'école publique est laïque et gratuite<ref group="i" name="d116">.</ref>.
+
+L'enseignement primaire se déroule en deux phases. L'école maternelle, qui accueille les très jeunes enfants, se donne pour but leur éveil, leur socialisation et la mise en place des outils fondamentaux que sont le langage et le nombre<ref>.</ref>.
+
+L'enseignement secondaire se déroule lui aussi en deux cycles. Le premier est dispensé au collège et aboutit au diplôme national du brevet<ref>.</ref>, la plupart sous contrat d'association avec l'État et souvent confessionnels.
+
+L'enseignement supérieur français présente la particularité de faire cohabiter les universités et le système des grandes écoles, où l'on entre généralement par concours à l'issue des classes préparatoires<ref name="supérieur">.</ref>. Les enseignements supérieurs pour le brevet de technicien supérieur et les classes préparatoires aux grandes écoles sont dispensés dans des lycées<ref name="supérieur"/> ou dans des établissements privés. 
+
+La France a connu depuis la Libération un élargissement considérable de la scolarisation. En 1936, moins de 3 % d'une classe d'âge obtenait le baccalauréat ; ce pourcentage est passé à 30 % en 1985 et 60 % en 1995<ref group="i" name="d116"/>. Néanmoins, cette démocratisation de l'enseignement ne supprime pas les inégalités sociales : 25 % des enfants d'ouvriers nés entre 1974 et 1978 sont diplômés de l'enseignement supérieur, contre 77 % des enfants de cadres<ref group="i">.</ref>.
+
+Selon le programme PISA de comparaison des systèmes éducatifs nationaux, les résultats du système éducatif français sont décevants par rapport aux autres États membres de l'OCDE<ref name="pisa6">« [http://orientation.blog.lemonde.fr/2013/12/07/enquete-pisa-2012-la-france-decroche-en-maths-mais-remonte-en-comprehension-de-lecrit/ Résultats de la France à l'enquête PISA 2012 scolaires] », Le Monde du 07/12/2013, Olivier Rollot.</ref>, en particulier par l'accroissement des inégalités depuis l'enquête PISA de 2003. Malgré les plans de prévention, l’illettrisme touche  ayant été scolarisée en France<ref>[http://www.anlci.gouv.fr/fileadmin/Medias/PDF/EDITIONS/ivq_4pages.pdf Agence nationale de lutte contre l'illettrisme, des chiffres pour éclairer les décisions].</ref>.
+
+L'origine sociale des élèves influe considérablement sur leurs résultats scolaires. En CE2, les élèves issus du quart le plus pauvre obtiennent en 2019 une note moyenne de 57 sur 100 en français et 58 en mathématiques, contre respectivement 87 et 85 pour ceux issus du quart le plus riche. Les inégalités s'accentuent après le collège, avec un taux d’accès en seconde générale ou technologique deux fois plus élevé pour les élèves issus de milieux favorisés que pour les autres<ref name=":12" />.
+
+ Santé et protection sociale 
+ Protection sociale 
+
+Depuis sa création en 1945<ref group="a" name="e180">.</ref>.
+
+Les prestations sociales sont principalement financées par les cotisations sociales versées par les actifs (65,5 % du total en 2005<ref group="a" name="e188">.
+
+Santé
+
+Fichier:P1000513 Paris XIII Salpetrière reductwk.L'hôpital de la Pitié-Salpêtrière, un hôpital d'enseignement à Paris, l'un des plus grands hôpitaux d'Europe<ref>[https://web.archive.org/web/20070117112822/http://www.paris-region.com/ard_uk/upload/document/D176.pdf How to conduct European clinical trials from the Paris Region ?] Clinical Trials. Paris. February 2003.</ref>.
+
+Le système de santé français est en grande partie financé par la branche maladie de la Sécurité sociale. Le nombre de médecins pour .</ref>.
+
+Néanmoins, la santé des habitants de la France n’est pas optimale dans tous les domaines. Malgré la chute de la consommation de vin depuis les années 1960<ref name="d275" group="i"/>, les Français demeurent les seconds consommateurs d’alcool d’Europe occidentale, après les Irlandais<ref name="d276" group="i"/>. 29 % des 18- en auraient consommé en 2005, selon l'Observatoire français des drogues et toxicomanies<ref group="i" name="d280-281"/>.
+
+Contrairement aux idées reçues, la France ne consomme pas significativement plus d'antidépresseurs que les autres pays<ref></ref>.
+
+ Médias 
+Fichier:AudiencesTF1FR2FR3M6 1996-2017.Audiences des quatre principales chaînes françaises de 1996 à 2019.<br/>
+
+
+
+
+
+
+
+
+
+
+En France, c’est la loi du 29 juillet 1881 qui a institué et en même temps encadré la liberté de la presse<ref group="k">.</ref>.
+
+L'agence France-Presse (AFP) créée en 1835 par Charles-Charles Havas, est l'une des trois grandes agences généralistes de presse mondiale, avec Reuters et Associated Press<ref>.</ref>. 
+
+Si les presses régionale, hebdomadaire et thématique se vendent bien en France<ref group="N">Selon l’OJD, le quotidien régional Ouest-France est vendu à plus de .</ref>.
+
+Depuis 1981 et la légalisation des « radios libres »<ref>.</ref>, seule France 2 appartient au groupe public France Télévisions.
+
+Quant à l’accès au réseau internet, il ne s’est vraiment démocratisé qu’au début des années 2000<ref>.</ref>.
+
+Entre 2002 et 2009, la France est passée de la .</ref>.
+
+ Sport 
+
+Fichier:France champion of the Football World Cup Russia 2018.upright=1.Les joueurs de l'équipe de France de football soulevant, le 15 juillet 2018  à Moscou, le trophée de la  de la Coupe du monde.
+
+La France est caractérisé par une tradition sportive ancienne et une grande variété de disciplines pratiquées à haut niveau. Le pays a un rôle prépondérant dans l’organisation du sport moderne<ref group=N>C’est à Paris que s’est réuni le premier congrès olympique en 1894, sous la direction du Français Pierre de Coubertin, qui décida le rétablissement des Jeux olympiques.</ref> et son palmarès, depuis la fin du .</ref>.
+
+Parmi ses autres distinctions notables, la France a remporté la Coupe du monde de football à 2 reprises, la Coupe Davis à 10 reprises ou encore le Tournoi des Six Nations à 25 reprises.
+
+D'après le ministère des Sports, en 2010, 69 % des personnes de plus de .</ref>.
+
+En 2013, la dépense sportive nationale s'établissait à <ref name=":3" />.
+
+Le tournoi de tennis international de Roland Garros à la porte d'Auteuil, à Paris, et le Tour de France cycliste sont des événements annuels importants, tout comme peuvent l'être des événements ponctuels tels que l'Championnat d'Euro de football de 2016.
+
+La France s'intéresse également de plus en plus à l'e-sport. En 2016, le gouvernement Valls crée l'association France Esports. En 2018, .</ref>.
+
+ Engagement associatif, syndical et politique 
+Fichier:Anti CPE - Paris 2006.Manifestation contre le CPE à Paris en 2006.
+
+Si les taux de participation aux élections diminuent, la participation protestataire, en revanche, se développe<ref group="i" name="d333">.</ref>.
+
+Mais cette participation ponctuelle à des événements contestataires ne se traduit pas, tant s’en faut, par un engagement important dans les partis politiques<ref group="k">.</ref>.
+
+ Économie 
+
+Fichier:Graphique-prelevements-obligatoires.Prélèvements obligatoires en France entre 1910 et 2013.
+L'économie de la France est une économie sociale de marché fondée sur la propriété privée. Il y a une intervention étatique relativement forte depuis la fin de la Seconde Guerre mondiale, bien que celle-ci soit remise en cause depuis les années 1980<ref group="c">.</ref>. Les prélèvements obligatoires représentent 46,2 % du PIB en 2017, soit le taux le plus élevé parmi les pays membres de l’OCDE<ref name=":0" />, et les dépenses publiques totalisent 56,8 % du PIB en 2015, soit le deuxième taux le plus élevé de l'OCDE<ref name=":13" />. 
+
+ Revenus de la population et développement humain 
+
+Fichier:World Income Gini Map (2013).Inégalité des revenus (2013) au sein des pays, mesuré par le coefficient de Gini : 0 correspond à une égalité parfaite (toutes les personnes ont les mêmes richesses), et 100 à une inégalité totale (où une personne posséderait tout). Les pays en rouge sont plus inégalitaires que les pays en vert.
+En 2018, il y avait .</ref>. 
+Fichier:Inégalité de revenu France 1900 2014.Inégalités de revenu en France, 1900-2014.|391x391px
+En 2014, selon le World Inequality Database, en France, les 1 % les plus aisés captaient 10,8 % du revenu national avant impôt (ce chiffre était de 11,0 % en 2000, 11,5 % en 1960 et 20,1 % en 1920), les 10 % les plus aisés en captaient 32,6 % (ce chiffre était de 33,1 % en 2000, 37,7 % en 1960 et 47,3 % en 1920), les 50 % les plus pauvres en captaient 22,5 % (ce chiffre était 21,5 % en 2000, 18,6 % en 1960 et 14,6 % en 1920). Les inégalités de revenus en France au </ref>.
+
+Les revenus des Français et leur pouvoir d'achat ont augmenté durant l'ensemble du .</ref>.
+
+En France, le salaire mensuel net moyen s'élevait en 2015 à <ref name=":4" />. En France, à métier, entreprise et fonction équivalentes, l'écart salarial entre femmes et hommes est de 2,7%<ref name=":15" />.
+
+En 2015, en France métropolitaine, le niveau de vie médian de la population s’élève à ) sous l’effet notamment de l’amélioration de la situation relative des retraités, dont le taux de pauvreté a diminué de plus de moitié grâce à l’amélioration de leur retraite et au minimum vieillesse. Depuis 1996, les évolutions du taux de pauvreté sont de moindre amplitude. Ce taux a diminué de 1,9 point entre 1996 et 2004, est remonté entre 2004 et 2011 (+1,8 point), notamment du fait de la crise de 2008, et depuis évolue peu<ref name=":4" />.
+
+En 2017, selon les Nations unies, l’indice de développement humain (IDH) de la France était de 0,901, la plaçant au .</ref>.
+
+Au premier trimestre 2012, l'INSEE dénombrait  n’ont pas de domicile personnel<ref name=":12" />.
+
+ Emploi 
+Fichier:Chômage france 1975-2014.Évolution du taux de chômage en France (au sens du Bureau international du travail) entre 1975 et 2014.|alt=Graphique montrant l’évolution du taux de chômage en France (au sens du Bureau international du travail) entre 1975 et 2009. De 3 % environ en 1975, on est passé à plus de 10 % en 2014, avec de nombreuses fluctuations entre temps.
+
+Fichier:Chômage France 2019.Évolution du taux de chômage en France entre 2003 et 2019.
+Si la France a connu durant les Trente Glorieuses une situation proche du plein emploi .</ref>. 
+
+En moyenne, en 2017, .</ref>. En 2017 comme en 2016, 18,8 % des personnes ayant un emploi travaillaient à temps partiel<ref name=":5" />.
+
+À la fin de l'année 2017, le secteur privé en France employait .</ref>.
+
+Les salariés représentaient 88,4 % des actifs occupés en France en 2017 : 84,6 % sont en contrat à durée indéterminée (CDI) ou fonctionnaires, 10,8 % en contrat à durée déterminée (CDD), 3,0 % en intérim et 1,6 % en apprentissage<ref name=":5" />.
+
+En 2017, les professions intermédiaires et les CSP+|cadres représentaient 43,7 % des actifs occupés, proportion en légère hausse sur un an. La part des ouvriers, qui avait baissé, de façon quasi ininterrompue, de près de  depuis le début des années 1980, a augmenté légèrement en 2017 (+ 0,5 point, à 20,8 %) ; celle des employés (27,2 %) a reculé légèrement (– 0,2 point), dans la lignée du repli observé depuis une dizaine d’années. Les ouvriers et employés non qualifiés représentaient en 2017 un actif occupé sur cinq<ref name=":5" />.
+
+En 2017, .</ref>.
+
+En 2017, en France, selon l'OCDE, le temps de travail hebdomadaire moyen des hommes était de 38,4 heures (soit un chiffre en légère baisse depuis les années 1980, il était de 40,1 heures en 1983) et celui des femmes était de 33,8 heures (également en légère baisse depuis les années 1980, il était de 35,5 heures en 1983). En moyenne, les Français ont travaillé 36,1 heures par semaine en 2017, un chiffre extrêmement stable depuis 1996 (il faut remonter à 1995 pour avoir un temps de travail hebdomadaire moyen supérieur à 37,0 heures)<ref name=":7" />.
+
+ Principaux secteurs d’activité 
+Malgré le maintien à un haut niveau de l’agriculture et de l'industrie, l’économie française est aujourd’hui principalement une économie de services. Le secteur tertiaire s’autonomise peu à peu et devient le principal moteur de la croissance économique du pays<ref name="tertiaire"/>.
+
+ Agriculture et agroalimentaire 
+
+Fichier:Épône - récolte du maïs01.Une récolte de maïs à Épône, près de Paris.|alt=Photographie d’une récolte de maïs à Épône, près de Paris.
+La France a connu, comme d'autres pays industrialisés, des phénomènes d’exode rural et de chute de l'emploi agricole<ref group="b" name="p120">. Le label Agriculture biologique est créée en 1985 ; depuis 2009, il est aligné sur les critères du label bio de l'Union européenne.
+
+La France comptait .</ref>.
+
+En 2015, il y avait . 30 % des actifs permanents agricoles sont des femmes<ref name=":9" />.
+
+La production agricole française se chiffre pour l'année 2017 à .</ref>.
+
+La France est le .</ref>.
+
+Fichier:Glass of champagne.alt=Le champagne, largement considéré comme un produit de luxe, originaire du vignoble de Champagne, dans le nord-est de la France.
+Les émissions de gaz à effet de serre par l'agriculture française ont significativement diminué au cours des dernières années, passant de .</ref>.
+
+ Tourisme 
+
+Fichier:Mona Lisa, by Leonardo da Vinci, from C2RMF retouched.alt=La Joconde est le plus célèbre des tableaux<ref>John Lichfield, [https://www.independent.co.uk/news/world/europe/the-moving-of-the-mona-lisa-6149165.html The Moving of the Mona Lisa], The Independent, 2 April 2005 (Retrieved 9 March 2012).</ref>, en exposition permanente au musée du Louvre, le musée le plus visité du monde<ref name=":8">.</ref>.
+Grâce à la richesse de ses paysages naturels et de son patrimoine culturel, la France est le pays le plus visité au monde par les touristes étrangers avec près de .</ref>.
+
+Les recettes liées au tourisme international en France s'élèvent pour l'année 2017 à .</ref>.
+
+En 2017, Paris est la .</ref>.
+
+Fichier:Le Mont Saint-Michel.alt=Le mont Saint-Michel, en Normandie, îlot rocheux particulièrement reconnaissable où culmine l'abbaye du mont Saint-Le mont Saint-Michel est l'un des monuments les plus visités et les plus reconnaissables en France. Il est l'un des 39 sites du patrimoine mondial de l'UNESCO en France.
+
+Les motifs de ce tourisme sont variés : il s’agit tout à la fois d’un tourisme culturel (notamment à Paris)<ref group="b" name="p162-163"/>, balnéaire (notamment sur la Côte d'Azur<ref group="b" name="p162-163"/>), naturel<ref group="b" name="p162-163"/>, d’affaires (Paris est la première destination mondiale pour ce type de tourisme<ref group="b" name="p162-163"/>), de loisirs (Disneyland Paris est de loin le parc d’attractions le plus fréquenté d’Europe<ref>.</ref> ; quelques sites de région attirent également de nombreux touristes, comme les châteaux de la Loire, le mont Saint-Michel, Rocamadour, le château du Haut-Kœnigsbourg, le musée Unterlinden de Colmar, le centre Pompidou-Metz ou le parc du Futuroscope<ref name="sites touristiques"/>.
+
+ Commerce et artisanat 
+Depuis les années 1970, le secteur du commerce a été bouleversé par l’irruption de la grande distribution, qui représente les deux tiers des dépenses alimentaires des Français en 2008<ref group="j" name="f291-292">.</ref>. La puissance de quelques grandes entreprises de la grande distribution&nbsp;—&nbsp;Carrefour par exemple est le deuxième groupe mondial du secteur<ref name="global 500"/>&nbsp;—&nbsp;leur permet d’imposer, dans une certaine mesure, des prix bas aux producteurs<ref group="j" name="f291-292"/>.
+Malgré la concurrence des entreprises industrielles, l’artisanat de son côté est parvenu à conserver une place importante dans l’économie française<ref group="j" name="f291-292"/>.
+
+ Industrie 
+
+La France est la quatrième puissance industrielle mondiale. Malgré la tertiarisation de l’économie française, les entreprises industrielles représentaient 12,6 % du PIB et 96,5 % des exportations françaises en 2014<ref>.</ref>.
+
+Son industrie est caractérisée par des évolutions contrastées : à côté d’industries modernes et dynamiques, qui font de la France un des leaders mondiaux dans de nombreux domaines (automobile, aéronautique, aérospatiale, agro-alimentaire, électronique, nucléaire civil, pharmacie, cosmétique, luxe…)<ref group="b">.</ref>, qui s’explique parfois par des délocalisations vers des pays à la main d’œuvre peu onéreuse<ref group="b" name="p143"/>.
+
+Même si la production se fait de plus en plus souvent à l’étranger, les entreprises françaises restent prédominantes dans de nombreux domaines<ref group="b">.</ref>.
+
+L'industrie française de l'armement représente  d'euros en 2016.
+<gallery mode="packed">
+Charles De Gaulle PascalSubtil 2.alt=Charles de Gaulle (porte-Porte-avions Charles de Gaulle. 
+Rafale C (7782446466).Dassault Rafale. 
+Leclerc p1040617.Char Leclerc. 
+</gallery>
+
+ Énergie 
+
+Fichier:Chooz - Centrale nucléaire -1.La centrale nucléaire de Chooz, construite et exploitée par EDF.|alt=Une photographie de la Centrale nucléaire de Chooz, construite et exploitée par EDF.
+Après la disparition complète de la production française de charbon en 2005<ref group="b" name="p140"/>, le pétrole, le gaz et surtout l’électricité sont les principales énergies consommées en France<ref group="b" name="p140"/>. Si la France ne produit plus de pétrole brut que de façon marginale<ref>.</ref> qui produisaient en 2013 près de 74 % de l’électricité du pays<ref group="I" name="énergie électrique"/>, mais dont le bilan environnemental est l’objet de débats<ref>Voir par exemple le site du réseau [http://www.sortirdunucleaire.org/ Sortir du nucléaire].</ref>. Quant aux énergies renouvelables, leur part dans la production électrique française augmente et s’établit en 2013 à près de 17 %<ref group="I" name="énergie électrique"/>, en grande partie grâce à l’hydroélectrique.
+
+ Une nation avec un programme spatial autonome dans un cadre européen 
+
+Fichier:Diamant P6230215.redresse=0.alt=La fusée Diamant.
+Outre l'aviation civile, le général de Gaulle fait de l'espace une priorité nationale pour préserver l'indépendance de la France<ref name="PVT423">[https://cnes.fr/fr/web/CNES-fr/8183-la-france-a-la-conquete-de-l-espace-de-veronique-a-ariane-de-philippe-varnoteaux.php La France à la conquête de l'espace].</ref>. La plus importante agence spatiale en Europe, le Centre national d'CNES est créé en 1961, et permet à la France de devenir en 1965 la sixième nation, après l'Union soviétique (Spoutnik 1, 1957), les États-Unis (Explorer 1, 1958), le Royaume-Uni (Ariel 1, 1962), le Canada (Alouette 1, 1962) et l'Italie (San Marco 1, 1964), à envoyer un satellite dans l'espace ; la fusée Diamant A1 envoie le satellite Astérix A1 depuis la base d'Hammaguir (Algérie). En 1973, la France propose aux pays européens un lanceur commun, Ariane<ref name="PVT423" />, exploité par l'Agence spatiale européenne depuis 1975. Le programme continue depuis et constitue un important succès technologique et commercial.
+Fichier:Ariane 5 Le Bourget FRA 001.redresse=0.Maquette d’Ariane 5 au Musée de l'air et de l'Bourget.
+Enfin, la France participe au projet Galileo est le système européen de positionnement par satellite visant à concurrencer le système américain GPS<ref>[https://www.challenges.fr/high-tech/20140818.CHA6786/c-est-imminent-l-europe-va-concurrencer-le-gps-americain.html L'Europe fait concurrence aux Américains].</ref>.
+
+ Recherche 
+
+La France consacre une part moyennement élevée de son PIB à la recherche et développement<ref group="h" name="y408">.</ref>, d’autant que les relations entre les entreprises privées et la recherche publique sont souvent jugées médiocres<ref group="h" name="y411"/>.
+En 2015, environ .</ref>.
+Ces derniers sont regroupés dans des universités ou dans des établissements publics<ref group="h" name="y408"/> comme le CNRS (généraliste), le Commissariat à l'CEA (nucléaire), l'INRIA (informatique et mathématiques appliquées), l'INRA (agronomie). Parmi ces établissements, le Laboratoire d'électronique et de technologie de l'LETI se positionne comme l'un des principaux laboratoires en microélectronique et nanotechnologies dans le monde<ref></ref>, jouxtant le complexe Minatec, principal centre de recherche en Europe sur les nanotechnologies.
+
+La France accueille par ailleurs sur son territoire de grands instruments de recherche internationaux comme l'European Synchrotron Radiation Facility, l'Institut Laue-Langevin ou l'Institut de radioastronomie millimétrique et demeure un acteur majeur du CERN. Depuis 2002, la plupart de ces centres de recherche sont organisés en réseaux avec des universités et des entreprises, pour former des pôles de compétitivité (71 en 2007<ref>.</ref>).
+
+ Finance et assurance 
+<gallery mode="packed">
+Panorama La Défense.<center>Le quartier de Paris-La Défense est le premier quartier d'affaires européen par l'étendue de son parc de bureaux<ref>CCIP, [http://www.pilotimmobilier.com/upload/pdf/LaDefence_CCIP_mars2007.pdf Paris-La Défense, moteur d'attractivité internationale pour l'Île-de-France], ].</ref>. </center>
+</gallery>
+Le secteur bancaire français a longtemps été caractérisé par sa faible concentration, par la ferme réglementation qui l’encadrait et par la part importante du secteur public, mais cette situation a changé au cours des années 1990<ref group="h">.</ref>.
+
+La bourse de Paris, filiale d’Euronext depuis 2000, est le marché officiel des actions en France. L’indice CAC 40, qui regroupe les cours de 40 actions parmi les plus échangées, représentait une capitalisation totale de plus de .</ref>.
+
+ Place de la France dans l’économie mondiale 
+En 2018, selon le FMI, le PIB nominal de la France s'élevait à  plus riche d'Europe selon ce critère<ref name=":6" />.
+Fichier:Evolution-depense-publique.Évolution de la dépense publique en France (en % du PIB) entre 1960 et 2016.
+D'après le .</ref>.
+
+L’économie française est fortement extravertie<ref group="a">.</ref>.
+
+Néanmoins, le commerce extérieur de la France connaît d’importantes difficultés. Depuis 2004, la France connaît un déficit de sa balance commerciale, de plus en plus creusé<ref group="a" name="e291">.</ref>.
+
+ Culture 
+
+Fichier:Eugène Delacroix - La liberté guidant le peuple.upright=1.La Liberté guidant le peuple (Eugène Delacroix, 1830) représente symboliquement la République française, associant sa culture à l'un des tenants de sa devise : Liberté, Égalité, Fraternité.
+
+La France au fil du temps a été un lieu pour le développement des arts et de la culture. Des nombreux artistes français importants, aussi que des immigrants, ont trouvé refuge dans le pays ; ils participent à la reconnaissance en Occident et dans le monde entier de sa riche tradition culturelle. La création du ministère de la Culture en 1959 a aidé à préserver le patrimoine culturel du pays et à le rendre accessible au public. Le ministère de la Culture a été très actif dans l'octroi de subventions aux artistes, la promotion de la culture française dans le monde, le soutien aux festivals et événements culturels, la protection des monuments historiques. Le Gouvernement a également réussi à maintenir une exception culturelle pour défendre le cinéma français.
+
+Avec près de .</ref>. Les sites culturels les plus importants sont gérés par le Gouvernement, par exemple par l'intermédiaire du Centre des monuments nationaux, qui est responsable d'environ 85 monuments historiques nationaux.
+
+ Architecture 
+
+Fichier:Sainte Chapelle - Upper level 1.La Sainte Chapelle de Saint Louis illustre l'influence française du Gothique sur l'architecture religieuse du .
+
+La France possède un patrimoine architectural riche, témoin d’une longue histoire et de la rencontre de différents traits civilisationnels.
+Les  protégés au titre des monuments historiques comprennent principalement des résidences (nombreux châteaux) et des édifices religieux (cathédrales, basiliques, églises), mais aussi les monuments et les jardins.
+
+ Inscrits sur la liste du patrimoine mondial 
+
+Fichier:Tour eiffel at sunrise from the trocadero.Monument le plus visité au monde<ref> [https://www.lemonde.fr/cgi-bin/ACHATS/acheter.cgi?offre=ARCHIVES&type_item=ART_ARCH_30J&objet_id=998920&clef=ARC-TRK-D_01 Tour Eiffel et souvenirs de Paris].</ref>, la tour Eiffel est une icône de Paris et de la France.
+
+L'Organisation des Nations unies pour l'éducation,UNESCO a inscrit 44 sites en France sur la liste du patrimoine mondial<ref>.</ref>.
+
+Sur les 845 biens culturels<ref group=N>En incluant les sites dits mixtes, à l’intérêt à la fois naturel et culturel.</ref> inscrits sur la liste du patrimoine mondial par l’Organisation des Nations unies pour l'éducation,UNESCO en juillet 2018, 39 sont français, ce qui fait de la France, avec l'Allemagne, le quatrième pays du monde en nombre de sites culturels bénéficiant de la reconnaissance mondiale<ref group=N>Derrière l’Italie (54), la Chine (47) et l’Espagne (44) et ensemble avec l'Allemagne (39).</ref><ref>{{langue=|auteur=Comité du patrimoine mondial de l’titre=France : 
+url=https://whc.unesco.org/fr/etatsparties/site=whc.unesco.date=|consulté le=22 juillet 2018}}.</ref>.
+
+Le patrimoine architectural français inscrit sur la liste du patrimoine mondial comporte à la fois des édifices d’architecture religieuse (l’abbaye de Fontenay par exemple), civile (les châteaux de la Loire), industrielle (la saline royale d'Arc-et-Senans), militaire (les sites majeurs fortifiés par Vauban) et urbaine (la place Stanislas de Nancy, le centre historique de Strasbourg). Il comporte des exemples d’architecture de toutes les époques, de l’architecture romaine (le pont du Gard) à l’architecture d’après-guerre (le centre reconstruit du Centre-Havre), en passant par des chefs-d’œuvre de l’architecture romane (l’abbaye de Saint-Savin-sur-Gartempe), gothique (la Cathédrale Notre-cathédrale de Chartres) et classique (le canal du Midi).
+
+<gallery mode="packed" caption="Sites classés au patrimoine mondial de l'UNESCO">
+Notre-Dame de Paris-France.La cathédrale Notre-Dame de Paris. 
+Chateau de Chenonceau.Le château de Chenonceau (Val de Loire). 
+Mont Saint Michel bordercropped.Le mont Saint-Michel. 
+Pope palace Avignon by Rosier.Le Palais des papes d'Avignon. 
+Château de Versailles (vue du parc, Versailles).Le château de Versailles, chef-d’œuvre de l’architecture classique ou baroque.
+</gallery>
+
+ Bâtiments d’intérêt historique 
+
+En France, depuis 1840, les bâtiments d’intérêt historique, architectural, patrimonial ou culturel peuvent être inscrits ou classés au titre des monuments historiques par l’État, de même que certains biens mobiliers (cloches), ce qui leur assure une protection juridique, ainsi que des aides à la restauration et à l'entretien. À la date du 31 décembre 2008, il y a en France  [http://www2.culture.gouv.fr/culture/deps/chiffres-cles2010/04-patrimoine-architecture-2010.pdf statistiques du ministère de la Culture], sur le site culture.gouv.fr.</ref>.
+La France a compté des architectes qui ont façonné le patrimoine architectural français et européen à toutes les époques de son histoire, avec des figures telles que Pierre de Montreuil au Moyen Âge, Lescot, Delorme et Androuet du Cerceau à la Renaissance, Mansart, Le Vau, Jules Hardouin-Hardouin-Mansart, Ange-Gabriel et Claude-Nicolas Ledoux aux époques classique et néoclassique, Eugène Viollet-le-Viollet-le-Duc, Garnier et Eiffel au  et Auguste Perret, Le Corbusier, Jean Nouvel, à l'époque moderne.
+
+ Arts visuels et plastiques 
+
+Fichier:Fragonard collin maillard.Le Colin-Maillard (1750-1752) de Jean-Fragonard.
+Fichier:Le Penseur in the Jardin du Musée Rodin, Paris March 2014.Le Penseur d'Auguste Rodin (1882).
+Si des productions artistiques sont attestées dans l’espace correspondant à la France actuelle dès la Préhistoire<ref group="m">.</ref> font partie des thèmes privilégiés d’un art principalement commandé par le pouvoir politique ou religieux.
+
+La Renaissance et le développement du classicisme au .</ref> ; c’est également à l’époque moderne qu’émergent des figures individuelles d’artistes, telles les peintres Fouquet, Poussin, La Tour, le Lorrain, Watteau, Boucher, Chardin, Jean-Fragonard, Jean-Greuze, Jacques-David, Antoine-Gros et Jean-Auguste-Ingres, ou les sculpteurs Goujon, Girardon, Coysevox, Puget et Jean-Houdon<ref group="m" name="noms d'artistes">Les noms cités dans l’article sont tous cités dans les pages 85 à 95.</ref>.
+
+Aux .</ref>.
+
+ Littérature et poésie 
+
+
+Les lettres françaises comptent de nombreuses figures qui à toutes les époques ont contribué à la réputation culturelle du pays<ref group="m">, le romancier Rabelais, l’essayiste Montaigne et les poètes Du Bellay et Ronsard marquent la Renaissance<ref group="m" name="noms d'artistes"/>.
+
+Au , les auteurs des Lumières Voltaire, Diderot, Montesquieu et Jean-Rousseau, les romanciers Prévost, Laclos et Sade et les dramaturges Marivaux et Pierre-Beaumarchais fustigent la société de leur époque tout en abordant des sujets jusque-là prohibés<ref group="m" name="noms d'artistes"/>.
+
+Au , le roman connaît un apogée avec Stendhal, Balzac, Hugo, Dumas, Flaubert et Zola, mais les autres genres ne sont pas en reste, comme le montrent le mémorialiste François-Chateaubriand et les poètes Lamartine, Musset, Baudelaire, Vigny, Rimbaud et Mallarmé<ref group="m" name="noms d'artistes"/> ; aussi les théoriciens Comte et Durkheim.
+
+Le  marqué les problèmatiques qui ont suivi les productions contemporaines ; on peut citer les poètes Apollinaire, Éluard, Aragon, Char et Prévert ; les romanciers et essayistes Proust, Gide, Louis-Céline, Jean-Sartre, Beauvoir, Yourcenar, Antoine de Saint-Saint-Exupéry, Vian, Camus, Duras, Sagan, Gracq, Sarraute, Deleuze, Derrida, Foucault, Guattari, Bourdieu, Ricoeur, Lacan et Claude Lévi-Lévi-Strauss ; aussi les dramaturges Giraudoux, Cocteau et Ionesco<ref group="m" name="noms d'artistes"/>.
+
+Au , des noms émergent, dont ceux de J.M.G. Le Clézio, Patrick Modiano, Virginie Despentes, Jacques Rancière, Alain Badiou, Georges Didi-Didi-Huberman, Michel Houellebecq, Erik Orsenna, Éric-Emmanuel Schmitt, Pascal Quignard, Pierre Michon, Christine Angot, ou Eliette Abecassis.
+
+À ce jour, la France est le pays qui possède le plus de prix Nobel de littérature, avec quinze lauréats<ref></ref>.
+
+La France est le .</ref>.
+
+ Arts du spectacle 
+
+
+Depuis une loi de 1999, la catégorie administrative de « spectacle vivant » a été inventée pour regrouper tous les spectacles publics se définissant par « la présence physique d'au moins un artiste du spectacle percevant une rémunération lors de la représentation en public d'une œuvre d'œuvre de l'esprit », c'est-à-dire les arts académiques du théâtre, de la danse, de la musique orchestrale et de l'opéra, avec des arts populaires comme le cirque, les arts de la rue, les arts de la marionnette, le théâtre musical, le spectacle de rue et la musique instrumentale.
+
+ Théâtre 
+
+
+Les premiers vestiges du théâtre sur le territoire français actuel datent de la culture grecque antique. Il se développe ensuite dans toute la Gaule durant la période romaine si bien qu'on retrouve nombre d'édifices de cette époque encore aujourd'hui. Il prend ensuite différentes formes au fil des époques<ref name="Théâtres et amphithéâtres dans les cités de Gaule romaine : fonctions et répartition">https://journals.openedition.org/edl/115</ref>.
+
+Au Moyen Âge, les drames liturgiques constituent le genre le plus populaire. Le genre s'enrichit davantage à la Renaissance: farces, comme Pathelin (1485) ; tragédies et la comédies avec des dramaturges humanistes comme Étienne Jodelle, Jacques Grevin ou Robert Garnier ou encore Commedia dell'arte importée par des comédiens italiens.
+
+Les profondes réformes du métier avec François Hédelin et Pierre Corneille, fait il s'impose le mouvement du classicisme au , dominé par Regnard, Marivaux et Pierre-Beaumarchais, par exemple, l'affaire du Le mariage de Figaro (1778) qui annonce l'avenir de la Révolution française. 
+Fichier:La Double Inconstance Comédie Française.La Double Inconstance de Marivaux à la Comédie-Française, 2015
+Le ouvrage de François-Joseph Talma marque un début des changements au  ; le théâtre romantique est codifié par Victor Hugo dans la préface de Cromwell (1827), et son développement met diverses confrontations entre ses contemporains, Musset et Vigny, par exemple, particulièrement à la Bataille de Hernani ; en contestation, il assimile les courants du réalisme avec Eugène Scribe et du naturalisme de Émile Zola qui vaut déclencher profondes réflexions au sujet de l'art dramatique, inspirant le travail de importantes figures  telles que Chekhov, Ibsen et Stanislavski ; le symbolisme en reponse il fait son apparition, avec Paul Fort, Lugné-Poe et Maeterlinck, tous deux ont été qui cernait les principes des nouveaux mouvements à la époque.
+
+Le début du  et les apports d'Alfred Jarry, propicée des grandes changements et réflexions du sujet. Le théâtre de l'absurde refuse les explications simples et abandonne des personnages trop traditionnels, son auteur le plus connu est Eugène Ionesco ; le théâtre d'Avant-avant-garde a été profondément marqué par le dadaïsme et le surréalisme, la technique s'accordant particulièrement bien au théâtre, notamment chez Antonin Artaud et Guillaume Apollinaire, cernait les routes du théâtre expérimental, la performance et beaucoup des mouvements et expressions de l'art contemporain.
+
+D'autres expériences de théâtre impliquaient la décentralisation, le théâtre régional, le « théâtre populaire » (destiné à amener la classe ouvrière au théâtre). Le Festival d'Avignon a été créé en 1947 par Jean Vilar, qui a également joué un rôle important dans la création du Théâtre national populaire. Après mai 1968, une grande partie de la création théâtrale provint des MJC, instaurées par André Malraux un peu partout en France ; parmi les principales figures théâtrales contemporaines, on compte Jacques Lecoq, Ariane Mnouchkine, Bernard-Marie Koltès, Jean-Luc Lagarce, Claude Régy, Christian Siméon ou encore Florian Zeller. La France s'exprime lors d'événements prestigieux tels que le Grand prix de littérature dramatique, le Prix SACD et la cérémonie des Molières, constitue la plus importante remise de prix du théâtre au pays, organisé chaque anne à Paris.
+
+ Danse 
+
+Fichier:Wilfride Piollet danse dans "le Lac des Cygnes" (à l'Opéra de Paris, 1977).La systématisation du ballet, est un des principaux apports français à la danse (Wilfride Piollet dans Le Lac des cygnes, ballet de l'Opéra de Paris, 1977).
+
+La danse est un vecteur majeur de la culture française, particulièrement la danse classique ou ballet, mais également les danses de cour à la Renaissance. Thoinot Arbeau publie en 1589 le traité le plus complet des danses pratiquées au , lOrchésographie, manuel pédagogique de danse et méthode de tambour<ref>http://memory.loc.gov/cgi-bin/ampage?collId=musdi&fileName=219/musdi219.db&reNum.=0</ref>.
+Au <ref>Charles Mazouer, Molière et ses comédies-ballets, Honoré Champion, 2006, p. 12</ref>.
+Fichier:Lautrec la troupe de mlle eglantine (poster) 1895-6.Le mondialement connu Cancan (Troupe de  Églantine de Henri de Toulouse-Toulouse-Lautrec, 1895).
+Au . Auguste Vestris développe une méthode dont se sont inspirés Marius Petipa ou Auguste Bournonville.
+
+Avec les apports de François Delsarte et Émile Jaques-Dalcroze, des grandes figures comme Isadora Duncan, Loïe Fuller et Rudolf Laban définissent des principes de danse moderne qui, au cours du , sont développés par Martha Graham, Merce Cunningham, Pina Bausch et Alwin Nikolais et le Centre national de danse contemporaine.
+
+La pratique de la danse en France est régulée par la Fédération française de danse, divisés en des danses de spectacle (le ballet, le cancan, la danse contemporaine...), de société (traditionnelle, la quadrille...) et de compétition (sportives, acrobatiques).
+
+ Musique 
+
+
+ Musique savante 
+Partagée au Moyen Âge entre deux voies différentes, l'art polyphonique (ars antiqua, ars nova)  ancré sur le chant grégorien et l'art du chant profane monodique des troubadours et des trouvères<ref name="musique">.</ref>, la musique française connaît un rayonnement certain en Europe.
+La période baroque est également très importante dans la France des . La période contemporaine peut être représentée entre autres par Olivier Messiaen, Pierre Henry, Henri Dutilleux et plus récemment par Pierre Boulez, Iannis Xenakis, Jean-Claude Risset, François Bayle, Philippe Hersant ou encore Betsy Jolas<ref>https://hal.archives-ouvertes.fr/hal-01789828/</ref>.
+
+<gallery mode="packed">
+Beatriz de Dia - BN MS12473.Béatrice de Die, .
+Machaut 1.Guillaume de Machaut, .
+Jean-Baptiste Lully.Jean-Baptiste Lully, époque baroque.
+Berlioz Petit BNF Gallica.Hector Berlioz, époque romantique.
+Claude Debussy ca 1908, foto av Félix Nadar.Claude Debussy, fin .
+Maurice Ravel 1912.Maurice Ravel, fin .
+</gallery>
+
+ Chanson populaire et variétés 
+La chanson française avant le , comme Mistinguett.
+
+  
+Le développement de la musique en France a réellement commencé pendant l’entre-deux-guerres, notamment avec Jean Sablon, Charles Trénet, Édith Piaf ou encore Mireille (compositrice-Mireille, permettant au music-hall de se développer, avec des artistes comme Joséphine Baker et Maurice Chevalier. Des maisons de disques sont créées, et la chanson prend alors une vraie place dans la société et la culture française : alors que dans les années 1930 les ventes de disques étaient infimes (moins de 3 millions de disques écoulés par an)<ref><ref>[http://www.top-france.fr/html/33tours/33t1978.htm Ventes d'albums en 1978]</ref>. La musique dite « populaire » prend son essor, mêlant des genres propres à la France, comme la chanson française, à des genres importés, comme le rock, la pop ou le rap.
+
+Parmi les chanteurs français du  les plus connus et ceux qui ont vendu le plus de disques, on peut noter :
+* Édith Piaf, chanteuse française la plus connue à l'étranger, notamment grâce à sa chanson La Vie en rose.
+* Georges Brassens, auteur-compositeur-interprète qui mettait en musique, toujours accompagné de sa guitare, ses poèmes ainsi que ceux de grands auteurs français.
+* Charles Aznavour, auteur-compositeur-interprète franco-arménien de renommée internationale.
+* Serge Gainsbourg, auteur-compositeur-interprète qui a souvent joué avec la langue française et marqué le public par ses multiples provocations.
+* Dalida, chanteuse au destin tragique, ayant embrassé plusieurs styles musicaux, tels que le twist, le raï et le disco.
+* Claude François, chanteur des années 1960 et 1970, dont la chanson Comme d'habitude est devenue un standard international sous le titre My Way.
+* Johnny Hallyday, chanteur et rocker devenu une véritable icône. Il demeure le plus gros vendeur de disques français avec  de disques écoulés.
+* Michel Sardou, chanteur populaire et engagé, devenu le deuxième plus gros vendeur de disques en France.
+* Jean-Jacques Goldman, auteur-compositeur-interprète ayant signé de nombreux succès pour lui et pour d'autres artistes.
+* Mylène Farmer, auteure-compositrice-interprète qui révolutionne la chanson française à travers ses clips et ses concerts spectaculaires.
+* MC Solaar, pionnier du rap français. Il est le rappeur qui a vendu le plus de disques en France.  
+
+<gallery mode="packed">
+Édith Piaf 914-6440.Édith Piaf
+Brassens TNP 1966 f13.Georges Brassens
+Dalida 1961.Dalida
+2014.06.23. Charles Aznavour Fot Mariusz Kubik 01.Charles Aznavour
+</gallery>
+
+  
+La variété française demeure toujours présente, tandis que le rap poursuit son ascension. Cependant, la crise du disque commence à se faire ressentir au début des années 2000 : les ventes de disques s'effondrent d'année en année, passant de 165 millions de disques vendus en 2002<ref>[http://ses-perso.telecom-paristech.fr/bourreau/papers/crise.pdf Crise des ventes de disques et téléchargements sur les réseauxpeer-to-peer : le cas du marché français]</ref> à seulement 30 millions en 2018<ref>[http://www.chartsinfrance.net/actualite/news-109080.html Bilan du marché du disque en 2018]</ref>, à cause notamment du téléchargement illégal et de l'arrivée du streaming. 
+
+On peut noter plusieurs représentants de la chanson française depuis les années 2000 :
+
+<gallery>
+Daftpunklapremiere2010.Daft Punk, groupe qui a réussi à faire connaître la French Touch à l’international.
+Calogero Cannes 2019.Calogero, chanteur pop rock qui connaît un grand succès depuis 2002.
+David Guetta 2013-04-12 001.David Guetta, DJ au succès mondial. Il est l'artiste français ayant vendu le plus de disques à l’étranger.
+</gallery>
+
+ Cinéma 
+
+Fichier:Cannes 2018 10.Le tapis rouge du Festival de Cannes en 2018.
+Le cinéma, inventé en 1895 à Lyon par les frères Lumière, reste une activité importante en France, malgré la concurrence hollywoodienne, et au monde entier. En 2005, la France est le sixième producteur mondial<ref group="N">En nombre de films produits, derrière l’Inde, le Nigeria, les États-Unis, le Japon et la République populaire de Chine.</ref> et le premier producteur européen de longs-métrages<ref>.</ref>.
+
+Existant depuis une centaine d'années, le cinéma français se révèle très riche quant à la diversité de ses réalisateurs (Georges Méliès, Jean-Luc Godard, Luc Besson...) de ses acteurs (Jean Marais, Louis de Funès, Gérard Depardieu, Audrey Tautou...) et des films qu'il a produit (Les Misérables (film,Les Misérables, La Grande Vadrouille, Emmanuelle, Le Grand Bleu, Intouchables...). Cependant, depuis les années 1980, une grande partie de la production est plus spécifiquement tournée vers les comédies (Le Dîner de cons, Les Visiteurs (film,Les Visiteurs, Bienvenue chez les Ch'tis...) et les films d'auteurs (La Haine, Le Fabuleux Destin d'Amélie Poulain, The Artist...).
+
+<gallery mode="packed" caption="Personnalités notables du cinéma français">
+Fratelli Lumiere.Les frères Lumière.
+George Melies.Georges Méliès.
+Louis de Funès — L'Homme orchestre (1970) (recadré).Louis de Funès.
+Jean-Luc Godard at Berkeley, 1968.Jean-Luc Godard.
+Catherine Deneuve 1995.Catherine Deneuve.
+Gérard Depardieu Cannes 2010.Gérard Depardieu. 
+Isabelle Adjani Cannes 2009.Isabelle Adjani.
+Isabelle Huppert Cannes 2017 2.Isabelle Huppert.
+Audrey Tautou janvier 2016.Audrey Tautou.
+Marion Cotillard Cabourg 2017.Marion Cotillard.
+Jean Dujardin Cannes 2011.Jean Dujardin.
+</gallery>
+
+ Mode 
+
+ 
+La mode est une industrie importante en France depuis le </ref>, (de même que Londres, Milan et New York) et accueille les sièges de maisons de mode de premier plan.
+
+C'est durant le règne de Louis XIV<ref>Kelly, 181. DeJean, chapters 2–4.</ref>, quand les industries de biens de luxe ont été mises sous le contrôle du roi, que la France a acquis une place prépondérante dans la mode. La cour royale française s'est alors progressivement érigée en arbitre du goût et du style en Europe, au . Dans les années 1860-1960 les grandes maisons de couture ont insufflé une dynamique nouvelle. L'expression « haute couture » est originaire de Paris et date des années 1860. C'est un nom protégé par la loi, qui garantit certaines normes de qualité et une exclusivité.
+
+Dans les années 1960, la haute couture, considérée comme trop élististe, subit les critiques de la culture de la jeunesse. En 1966, le couturier Yves Saint Laurent rompt avec les normes établies par le lancement d'un prêt-à-porter, inaugurant l'expansion de la mode française dans la fabrication de masse. Dans les années 1970 et 1980, Sonia Rykiel, Thierry Mugler, Claude Montana, Jean-Paul Gaultier et Christian Lacroix établissent de nouvelles tendances, en mettant l'accent sur le marketing et la fabrication. Dans les années 1990, se constituent des conglomérats regroupant de nombreuses maisons de couture françaises, avec notamment les géants du luxe LVMH -LVMH, Kering et L'Oréal. Actuellement, l'industrie de la parfumerie française reste leader mondial dans son secteur.
+
+ Gastronomie 
+
+Fichier:Qatar inaugural (5407424518).La culture française est également identifiée à la gastronomie (bouteilles de champagne Veuve Clicquot, avec son iconique  étiquette jaune).
+La cuisine française jouit d'une très grande renommée, notamment grâce à ses productions agricoles de qualité : nombreux vins (champagne, vins de Bordeaux, de Bourgogne ou d'Vignoble d'Alsace et 62.</ref>. 
+Fichier:Demi Castelviel Gabriel Coulet.Une tranche de roquefort, l’un des fromages français les plus réputés.
+La cuisine française est extrêmement variée. Elle est essentiellement constituée de spécialités régionales<ref group="g">.</ref>.
+
+En plus de sa forte tradition viticole, la France est également un important producteur de bière. Les trois principales régions brassicoles françaises sont l'Bière d'Alsace (60 % de la production nationale), le Liste de brasseries du Nord-Pas-de-Nord-Pas-de-Calais et la Lorraine.
+
+Le repas gastronomique des Français a été inscrit en 2010 à la Patrimoine culturel immatériel de l'liste représentative du patrimoine culturel immatériel de l'humanité de l'Organisation des Nations unies pour l'éducation,UNESCO<ref>[http://www.unesco.org/new/fr/media-services/single-view/news/forty_six_new_elements_added_to_representative_list_of_the_intangible_cultural_heritage/ La Liste représentative du patrimoine culturel immatériel de l’humanité s’enrichit de 46 nouveaux éléments].</ref>. Il se compose généralement d'une entrée, d'un plat garni et d'un dessert (parfois complété par du fromage, servi avant). Le soir, l'entrée est souvent remplacée par un potage ou une soupe (d'où l'appellation de « souper » pour ce repas). Le repas dominical est plus élaboré : deux entrées (une froide, une chaude), rôti de bœuf ou volaille (le plus couramment), salade, plateau de fromages et dessert. Les heures de repas vont de midi (Nord et Est), à  (Sud).
+
+ Philosophie et science 
+
+Fichier:Frans Hals - Portret van René Descartes.René Descartes, fondateur de la philosophie moderne.
+La France est depuis le Moyen Âge un foyer de connaissances et de découvertes majeur. L’université de Paris, créée en 1200, a été dès son origine et jusqu’à l’époque contemporaine l’une des plus importantes d’Occident<ref>.</ref>.
+
+Au , Augustin Fresnel fut le fondateur de l’optique moderne, Sadi Carnot posa les bases de la thermodynamique, et Louis Pasteur fut un pionnier de la microbiologie.
+
+Au , on peut citer le mathématicien et physicien Henri Poincaré, les physiciens Henri Becquerel, Pierre et Marie Curie (elle-même d'origine polonaise), restés célèbres pour leurs travaux sur la radioactivité, le physicien Paul Langevin ou encore le virologue Luc Montagnier, codécouvreur du virus de l'virus du sida.
+
+En 2018, avec 62 prix Nobel remportés, la France est le  la plus primée pour ces deux récompenses.
+
+ Influence internationale 
+
+Fichier:New-Map-Francophone World.Carte du monde francophone.<br />
+
+
+
+
+
+
+
+Depuis le Moyen Âge, la France joue un rôle majeur dans l’histoire artistique, culturelle, intellectuelle et politique du monde<ref group="l" name="l191-192">.</ref>.
+
+L’influence culturelle mondiale de la France passe notamment par le français, langue de l’élite européenne et de la diplomatie jusqu’au début du .</ref>.
+
+La présence culturelle de la France à l’étranger est entretenue non seulement par ses représentations diplomatiques, mais aussi par le réseau étendu de l’Alliance française<ref>
+
+ Codes pays 
+La France a pour codes :
+* LF, selon la liste des préfixes des codes OACI des aéroports ;
+* F, selon la Liste des codes internationaux des plaques minéralogiques ;
+* F, pour l'Immatriculation des aéronefs ;
+* F, selon la liste des préfixes UIT
+* FR, selon la norme ISO 3166-1 (liste des codes pays), code alpha-2 ;
+* FRA, selon la norme ISO 3166-1 (liste des codes pays), code alpha-3 ;
+* FRA, selon la liste des codes pays du CIO ;
+* .fr, selon la liste des Internet TLD () ;
+* FR, selon la liste des codes pays utilisés par l'OTAN, code alpha-2 ;
+* FRA, selon la liste des codes pays utilisés par l'OTAN, code alpha-3.
+
+ Notes et références 
+ Notes 
+
+
+ Références 
+* {{langue=titre=L’sous-titre=prénom1=nom1=prénom2=nom2=Dufourt 
+|prénom3=nom3=lieu=éditeur=collection=Les Classiques Économie-année=pages totales=352 
+|isbn=978-2-895-09111-oclc=494148084 }}
+
+* {{langue=titre=prénom1=nom1=directeur1=prénom2=nom2=Daudel 
+|prénom3=nom3=prénom4=Jean-nom4=prénom5=nom5=Jean 
+|lieu=éditeur=collection=année=pages totales=isbn=978-2-011-45772-1}}
+
+* {{langue=titre=La France, industries-prénom1=nom1=prénom2=nom2=lieu=Paris 
+|éditeur=Dalloz|collection=année=numéro d'édition=pages totales=isbn=978-2-247-01703-isbn2=2-247-01703-7 }}
+
+* {{langue=titre=Comprendre l’prénom1=nom1=lieu=éditeur=Economica|année=1999 
+|pages totales=isbn=978-2-717-83796-isbn2=2-717-83796-5}}
+
+* {{langue=titre=prénom1=nom1=directeur1=auteur2=François Lebrun|directeur2=oui 
+|prénom3=nom3=prénom4=nom4=prénom5=Jean-nom5=préface=lieu=Paris 
+|éditeur=Points Seuil|collection=année=année première édition=pages totales=format=poche 
+|isbn=978-2-020-10879-isbn2=2-020-10879-8}}
+
+* {{langue=titre=Introduction à l’histoire de l’prénom1=nom1=lieu=éditeur=collection=Champs arts 
+|année=pages totales=isbn=978-2-081-21746-1}}
+
+* {{langue=titre=prénom1=nom1=préface=Jean-lieu=éditeur=La Table Ronde 
+|collection=année=pages totales=isbn=978-2-710-33137-7}}
+
+* |prénom1=nom1=lieu=éditeur=année=2000 
+|pages totales=isbn=978-2-717-84132-isbn2=2-717-84132-6}}
+
+* {{langue=titre=prénom1=nom1=préface=lieu=éditeur=La Découverte|année=2009 
+|pages totales=isbn=978-2-707-15413-lccn=2009503665 }}
+
+* {{langue=titre=prénom1=nom1=lieu=éditeur=Larousse|collection=Essais et documents 
+|année=numéro d'édition=pages totales=format=isbn=978-2-035-84538-2}}
+
+* {{langue=titre=prénom1=nom1=lieu=éditeur=Presses universitaires de France|collection=Que sais-je ? 
+|année=numéro d'édition=année première édition=pages totales=isbn=978-2-130-45632-isbn2=2-130-45632-4}}
+
+* {{langue=titre=prénom1=Jean-nom1=lieu=éditeur=Armand Colin|collection=année=2009 
+|numéro d'édition=pages totales=isbn=978-2-200-35189-2}}
+
+* {{langue=titre=nom1=lieu=Clermont-éditeur=Michelin|collection=année=2003 
+|pages totales=isbn=978-2-061-00706-isbn2=2-061-00706-6}}
+
+* {{langue=titre=L’état de la France, Édition 2009-nom1=lieu=éditeur=La Découverte|année=pages totales=448 
+|isbn=978-2-707-15796-6}}
+
+* [http://www.insee.fr Site de l’Institut national de la statistique et des études économiques (Insee)]
+
+* Autres
+
+
+ Annexes 
+{{Autres projets
+ commons            = France
+ wiktionary         = France
+ wikiquote          = France
+ wikinews           = Catégorie:France
+ wikivoyage         = France
+}}
+
+ Bibliographie 
+
+
+ Liens externes 
+* 
+* 
+* 
+* 
+* [http://www.france.fr/ Site officiel du tourisme français]
+* [http://www.dgcis.gouv.fr/tourisme Le tourisme sur le portail de la Direction chargée du tourisme au ministère de l'Artisanat, du Commerce et du Tourisme]
+* [http://www.insee.fr/ Site de l'Institut national de la statistique et des études économiques]
+* [http://donnees.banquemondiale.org/indicateur/NY.GDP.PCAP.CD PIB par habitant ($ US courants)], sur le site donnees.banquemondiale.org
+* [http://int.rendezvousenfrance.com/fr/ Site de l'Agence de développement touristique de la France]
+* [https://docs.google.com/spreadsheets/d/1tO9lYVFD7DQuSfp73xWY0v4LEygsCOBkyNrXZZQRJb8/edit?usp=sharing Base de données mise en forme du FMI]
+
+{{Palette
+Pays d'Conseil de l'Histoire de France
+Organisation mondiale du commerce
+Organisation du traité de l'Atlantique nord
+Union latine
+}}
+
+
+
+
+Catégorie:*
