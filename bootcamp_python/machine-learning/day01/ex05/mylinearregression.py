@@ -1,4 +1,5 @@
 import numpy as np
+import time
 
 class MyLinearRegression():
     """
@@ -50,6 +51,8 @@ class MyLinearRegression():
             D_c = (-2/n) * sum(Y - Y_pred)  # Derivative wrt c
             self.theta[0] = self.theta[0] - alpha * D_c
             self.theta[1:] = self.theta[1:] - alpha * np.reshape(D_m, (np.shape(self.theta[1:])))
+            print("mse : ", self.mse_(Y, Y_pred))
+            # time.sleep(0.2)
 
     def mse_(self, y, y_hat):
         tmp = 0
@@ -65,7 +68,7 @@ def main():
     print("\npredict : ", mylr.predict_(X))
     print("\ncost elem : ", mylr.cost_elem_(X,Y))
     print("\ncost : ", mylr.cost_(X,Y))
-    mylr.fit_(X, Y, alpha = 1.6e-4, n_cycle=200000)
+    mylr.fit_(X, Y, alpha = 1.6e-4, n_cycle=20000)
     print("\nfit new theta: ", mylr.theta)
     print("\nfit : ", mylr.predict_(X))
     print("\ncost elem : ", mylr.cost_elem_(X,Y))
