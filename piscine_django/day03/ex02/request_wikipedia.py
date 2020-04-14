@@ -3,6 +3,9 @@ import requests
 import json
 import dewiki
 
+
+# ne pas oublier de faire le fichier reaquirements
+
 def main():
     #prameters of the url with our argument
     param = {'action':'query', 'titles':sys.argv[1], 'prop':'revisions','rvprop':'content','format':'json'} 
