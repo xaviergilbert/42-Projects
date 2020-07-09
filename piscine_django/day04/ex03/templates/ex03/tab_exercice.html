@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block title %}Ex03 : Color_tab.{% endblock %}
+
+{% block content %}
+    <div class="container mt-5">
+            <table class="container col-md-6" border="1px solid black">
+                <thead class="justify-content-center">
+                    <tr>
+                        <th style="text-align:center">Rouge</th>
+                        <th style="text-align:center">Vert</th>
+                        <th style="text-align:center">Bleu</th>
+                        <th style="text-align:center">Noir</th>
+                    </tr>
+                </thead>
+                <tbody class="justify-content-center">
+                    {% for color in colors %}
+                    <tr>
+                        <td style="width:80px;height:40px;background-color:rgba(255, 0, 0, {{ color }})"></td>
+                        <td style="width:80px;height:40px;background-color:rgba(0, 255, 0, {{ color }})"></td>
+                        <td style="width:80px;height:40px;background-color:rgba(0, 0, 255, {{ color }})"></td>
+                        <td style="width:80px;height:40px;background-color:rgba(0, 0, 0, {{ color }})"></td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+    </div>
+{% endblock %}

@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %}Ex03 : Init table.{% endblock %}
+
+{% block content %}
+    <div class="container h-100">
+        <div class="h-100 d-flex align-items-center justify-content-center">
+            {% for key, value in responses.items %}
+                {{ value }}
+                </br>
+            {% endfor %}
+        </div>
+    </div>
+{% endblock %}

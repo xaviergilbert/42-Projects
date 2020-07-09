@@ -1,0 +1,13 @@
+{% extends 'ex01/base.html' %}
+
+{% block title %}Ex01 : Processus d'affichage d'une page statique.{% endblock %}
+{% block content %}
+    <div class="row d-flex justify-content-center mt-5">
+        <div class="col-md-6">
+            <p>Une page web statique est une page web dont le contenu ne varie pas en fonction des caractéristiques de la demande, c'est-à-dire qu'à un moment donné tous les internautes qui demandent la page reçoivent le même contenu.</p>
+            <p>À l'inverse, une page web dynamique est générée à la demande et son contenu varie en fonction des caractéristiques de la demande (heure, adresse IP de l'ordinateur du demandeur, formulaire rempli par le demandeur, etc.) qui ne sont connues qu'au moment de sa consultation.</p>
+            <p>Lors de la consultation d'une page web statique, un serveur HTTP envoie le contenu du fichier dans lequel le contenu de la page est enregistré.</p>
+            <p>Lors de la consultation d'une page web dynamique, un serveur HTTP transmet la requête à un logiciel qui génère le contenu de la page. Les logiciels générant des pages web dynamiques sont fréquemment écrits avec les langages PHP, JavaServer Pages (JSP) ou Active Server Pages (ASP). Les pages ou sites web statiques se font de plus en plus rares. Une page web statique n'est programmée qu'avec les langages de programmation de base : HTML et (facultatif) CSS; à la différence des pages dynamiques.</p>
+        </div>
+    </div>
+{% endblock %}

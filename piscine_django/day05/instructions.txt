@@ -1,0 +1,10 @@
+#commandes lancer postgresql
+1. sudo su -
+2. service postgresql start
+3. su - postgres
+4. psql
+4.1 /l : list les database
+4.2 /c nomdelabase : se connect a une base
+
+
+
