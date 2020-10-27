@@ -8,7 +8,7 @@ chardet==3.0.4
 colorama==0.4.3
 conda==4.8.3
 conda-package-handling==1.6.0
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 dewiki==0.1.0
 distlib==0.3.0
