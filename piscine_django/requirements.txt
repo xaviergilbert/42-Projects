@@ -12,7 +12,7 @@ cryptography==2.8
 cycler==0.10.0
 dewiki==0.1.0
 distlib==0.3.0
-Django==3.0.3
+Django==3.1.12
 filelock==3.0.12
 get==2019.4.13
 idna==2.8
